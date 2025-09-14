@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Consciousness.label>consciousness</Consciousness.label>
-  <Consciousness.labelMechanoids>Data processing</Consciousness.labelMechanoids>
+  <Consciousness.label>kesadaran</Consciousness.label>
+  <Consciousness.labelMechanoids>Pemrosesan data</Consciousness.labelMechanoids>
 
-  <Moving.label>moving</Moving.label>
-  <Manipulation.label>manipulation</Manipulation.label>
+  <Moving.label>bergerak</Moving.label>
+  <Manipulation.label>manipulasi</Manipulation.label>
 
-  <Talking.label>talking</Talking.label>
-  <Talking.labelMechanoids>Communication</Talking.labelMechanoids>
+  <Talking.label>berbicara</Talking.label>
+  <Talking.labelMechanoids>Komunikasi</Talking.labelMechanoids>
 
-  <Eating.label>eating</Eating.label>
-  <Sight.label>sight</Sight.label>
-  <Hearing.label>hearing</Hearing.label>
-  <Breathing.label>breathing</Breathing.label>
+  <Eating.label>makan</Eating.label>
+  <Sight.label>penglihatan</Sight.label>
+  <Hearing.label>pendengaran</Hearing.label>
+  <Breathing.label>pernapasan</Breathing.label>
 
-  <BloodFiltration.label>blood filtration</BloodFiltration.label>
-  <BloodFiltration.labelMechanoids>fluid reprocessing</BloodFiltration.labelMechanoids>
+  <BloodFiltration.label>filtrasi darah</BloodFiltration.label>
+  <BloodFiltration.labelMechanoids>pemrosesan ulang cairan</BloodFiltration.labelMechanoids>
 
-  <BloodPumping.label>blood pumping</BloodPumping.label>
-  <BloodPumping.labelMechanoids>power generation</BloodPumping.labelMechanoids>
+  <BloodPumping.label>pemompaan darah</BloodPumping.label>
+  <BloodPumping.labelMechanoids>pembangkitan daya</BloodPumping.labelMechanoids>
 
-  <Metabolism.label>metabolism</Metabolism.label>
-
+  <Metabolism.label>metabolisme</Metabolism.label>
 
 </LanguageData>

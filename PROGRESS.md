@@ -1,8 +1,8 @@
 # 📊 Progress Penerjemahan DefInjected
 
-**Selesai:** 160 / 358 file
-**Progres:** 44.69%
-z
+**Selesai:** 169 / 358 file
+**Progres:** 47.21%
+
 - [x] DefInjected\ApparelLayerDef\ApparelLayerDefs.xml
 - [x] DefInjected\BillRepeatModeDef\BillRepeatModeDefs.xml
 - [x] DefInjected\BillStoreModeDef\BillStoreModeDefs.xml
@@ -34,6 +34,7 @@ z
 - [x] DefInjected\ConceptDef\Concepts_NotedOpportunistic.xml
 - [x] DefInjected\ConceptDef\Concepts_NotedSelfshow.xml
 - [x] DefInjected\ConceptDef\Concepts_TriggeredModal.xml
+- [x] DefInjected\ConceptDef\Example_Concepts.xml
 - [x] DefInjected\DamageDef\Damages_Environmental.xml
 - [x] DefInjected\DamageDef\Damages_Medical.xml
 - [x] DefInjected\DamageDef\Damages_MeleeWeapon.xml
@@ -62,6 +63,7 @@ z
 - [x] DefInjected\HediffDef\Hediffs_Local_Misc.xml
 - [x] DefInjected\HediffDef\Hediffs_Local_TerrainAttacks.xml
 - [x] DefInjected\HediffDef\Luciferium.xml
+- [x] DefInjected\HediffDef\Penoxycyline.xml
 - [x] DefInjected\HediffDef\Psychite_Flake.xml
 - [x] DefInjected\HediffDef\Psychite_Tea.xml
 - [x] DefInjected\HediffDef\Psychite_Yayo.xml
@@ -97,7 +99,14 @@ z
 - [x] DefInjected\MentalBreakDef\MentalStates_Mood.xml
 - [x] DefInjected\MentalStateDef\MentalStates_Mood.xml
 - [x] DefInjected\MentalStateDef\MentalStates_Special.xml
+- [x] DefInjected\NeedDef\Alcohol_Beer.xml
+- [x] DefInjected\NeedDef\Ambrosia.xml
+- [x] DefInjected\NeedDef\GoJuice.xml
+- [x] DefInjected\NeedDef\Luciferium.xml
 - [x] DefInjected\NeedDef\Needs.xml
+- [x] DefInjected\NeedDef\Psychite_Yayo.xml
+- [x] DefInjected\NeedDef\Smokeleaf.xml
+- [x] DefInjected\NeedDef\WakeUp.xml
 - [x] DefInjected\PawnKindDef\PawnKinds_Player.xml
 - [x] DefInjected\PawnKindDef\PawnKinds_Tribal.xml
 - [x] DefInjected\PawnKindDef\Races_Animal_Insect.xml
@@ -163,15 +172,6 @@ z
 - [x] DefInjected\WorkGiverDef\WorkGivers.xml
 - [x] DefInjected\WorkTypeDef\WorkTypes.xml
 - [x] DefInjected\WorldObjectDef\Incidents_Caravan_All.xml
-- [ ] DefInjected\ConceptDef\Example_Concepts.xml
-- [ ] DefInjected\HediffDef\Penoxycyline.xml
-- [ ] DefInjected\NeedDef\Alcohol_Beer.xml
-- [ ] DefInjected\NeedDef\Ambrosia.xml
-- [ ] DefInjected\NeedDef\GoJuice.xml
-- [ ] DefInjected\NeedDef\Luciferium.xml
-- [ ] DefInjected\NeedDef\Psychite_Yayo.xml
-- [ ] DefInjected\NeedDef\Smokeleaf.xml
-- [ ] DefInjected\NeedDef\WakeUp.xml
 - [ ] DefInjected\PawnCapacityDef\PawnCapacity.xml
 - [ ] DefInjected\PawnColumnDef\PawnColumns_Add.xml
 - [ ] DefInjected\PawnColumnDef\PawnColumns_Checkbox.xml
