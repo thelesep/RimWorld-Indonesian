@@ -1,7 +1,7 @@
 # 📊 Progress Penerjemahan DefInjected
 
-**Selesai:** 193 / 358 file
-**Progres:** 53.91%
+**Selesai:** 211 / 358 file
+**Progres:** 58.94%
 
 - [x] DefInjected\ApparelLayerDef\ApparelLayerDefs.xml
 - [x] DefInjected\BillRepeatModeDef\BillRepeatModeDefs.xml
@@ -135,12 +135,24 @@
 - [x] DefInjected\PawnRelationDef\PawnRelations_FamilyByChoice.xml
 - [x] DefInjected\PrisonerInteractionModeDef\PrisonerInteractionMode.xml
 - [x] DefInjected\RaidStrategyDef\RaidStrategies.xml
+- [x] DefInjected\RecipeDef\Recipes_Add_Administer.xml
 - [x] DefInjected\RecipeDef\Recipes_Add_Make.xml
+- [x] DefInjected\RecipeDef\Recipes_Butchery.xml
+- [x] DefInjected\RecipeDef\Recipes_Cremation.xml
 - [x] DefInjected\RecipeDef\Recipes_Food.xml
+- [x] DefInjected\RecipeDef\Recipes_Meals.xml
+- [x] DefInjected\RecipeDef\Recipes_Production.xml
+- [x] DefInjected\RecipeDef\Recipes_Surgery_Installations.xml
+- [x] DefInjected\RecipeDef\Recipes_Surgery_Misc.xml
+- [x] DefInjected\RecipeDef\Various_Stone.xml
 - [x] DefInjected\RecordDef\Records_Misc.xml
 - [x] DefInjected\RecordDef\Records_Time.xml
 - [x] DefInjected\ResearchProjectDef\ResearchProjects_1.xml
+- [x] DefInjected\ResearchProjectDef\ResearchProjects_2_Electricity.xml
+- [x] DefInjected\ResearchProjectDef\ResearchProjects_3_Microelectronics.xml
+- [x] DefInjected\ResearchProjectDef\ResearchProjects_4_MultiAnalyzer.xml
 - [x] DefInjected\ResearchProjectDef\ResearchProjects_Tier4_Ship.xml
+- [x] DefInjected\RiverDef\RiverDefs.xml
 - [x] DefInjected\RoadDef\RoadDefs.xml
 - [x] DefInjected\RoomRoleDef\RoomRoles.xml
 - [x] DefInjected\RoomStatDef\RoomStats.xml
@@ -153,6 +165,12 @@
 - [x] DefInjected\RulePackDef\RulePacks_Maneuvers.xml
 - [x] DefInjected\ScenPartDef\ScenParts_Fixed.xml
 - [x] DefInjected\ScenPartDef\ScenParts_Various.xml
+- [x] DefInjected\ScenarioDef\Scenarios_Classic.xml
+- [x] DefInjected\SiteCoreDef\DownedRefugee.xml
+- [x] DefInjected\SiteCoreDef\ItemStash.xml
+- [x] DefInjected\SiteCoreDef\Nothing.xml
+- [x] DefInjected\SiteCoreDef\PreciousLump.xml
+- [x] DefInjected\SiteCoreDef\PrisonerWillingToJoin.xml
 - [x] DefInjected\SitePartDef\Manhunters.xml
 - [x] DefInjected\SpecialThingFilterDef\SpecialThingFilters.xml
 - [x] DefInjected\StatCategoryDef\StatCategories.xml
@@ -200,19 +218,7 @@
 - [ ] DefInjected\PawnKindDef\Races_Animal_Hares.xml
 - [ ] DefInjected\PawnRelationDef\PawnRelations_Misc.xml
 - [ ] DefInjected\RecipeDef\Alcohol_Beer.xml
-- [ ] DefInjected\RecipeDef\Recipes_Add_Administer.xml
-- [ ] DefInjected\RecipeDef\Recipes_Butchery.xml
-- [ ] DefInjected\RecipeDef\Recipes_Cremation.xml
-- [ ] DefInjected\RecipeDef\Recipes_Meals.xml
-- [ ] DefInjected\RecipeDef\Recipes_Production.xml
-- [ ] DefInjected\RecipeDef\Recipes_Surgery_Installations.xml
-- [ ] DefInjected\RecipeDef\Recipes_Surgery_Misc.xml
-- [ ] DefInjected\RecipeDef\Various_Stone.xml
-- [ ] DefInjected\ResearchProjectDef\ResearchProjects_2_Electricity.xml
-- [ ] DefInjected\ResearchProjectDef\ResearchProjects_3_Microelectronics.xml
-- [ ] DefInjected\ResearchProjectDef\ResearchProjects_4_MultiAnalyzer.xml
 - [ ] DefInjected\ResearchTabDef\ResearchTabs.xml
-- [ ] DefInjected\RiverDef\RiverDefs.xml
 - [ ] DefInjected\RoofDef\Roofs.xml
 - [ ] DefInjected\RulePackDef\RulePacks_Art_DescriptionsPhysical.xml
 - [ ] DefInjected\RulePackDef\RulePacks_Art_ImagesTaleless.xml
@@ -232,12 +238,6 @@
 - [ ] DefInjected\RulePackDef\RulePacks_Seeds.xml
 - [ ] DefInjected\RulePackDef\RulePacks_Transitions.xml
 - [ ] DefInjected\RulePackDef\RulePacks_Utility.xml
-- [ ] DefInjected\ScenarioDef\Scenarios_Classic.xml
-- [ ] DefInjected\SiteCoreDef\DownedRefugee.xml
-- [ ] DefInjected\SiteCoreDef\ItemStash.xml
-- [ ] DefInjected\SiteCoreDef\Nothing.xml
-- [ ] DefInjected\SiteCoreDef\PreciousLump.xml
-- [ ] DefInjected\SiteCoreDef\PrisonerWillingToJoin.xml
 - [ ] DefInjected\SitePartDef\AmbushEdge.xml
 - [ ] DefInjected\SitePartDef\AmbushHidden.xml
 - [ ] DefInjected\SitePartDef\Outpost.xml
