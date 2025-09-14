@@ -1,7 +1,7 @@
 # 📊 Progress Penerjemahan DefInjected
 
-**Selesai:** 211 / 358 file
-**Progres:** 58.94%
+**Selesai:** 217 / 358 file
+**Progres:** 60.61%
 
 - [x] DefInjected\ApparelLayerDef\ApparelLayerDefs.xml
 - [x] DefInjected\BillRepeatModeDef\BillRepeatModeDefs.xml
@@ -110,6 +110,7 @@
 - [x] DefInjected\PawnCapacityDef\PawnCapacity.xml
 - [x] DefInjected\PawnColumnDef\PawnColumns_Add.xml
 - [x] DefInjected\PawnColumnDef\PawnColumns_Checkbox.xml
+- [x] DefInjected\PawnColumnDef\PawnColumns_Icon.xml
 - [x] DefInjected\PawnColumnDef\PawnColumns_Misc.xml
 - [x] DefInjected\PawnKindDef\PawnKinds_Mercenary.xml
 - [x] DefInjected\PawnKindDef\PawnKinds_Outlander.xml
@@ -124,6 +125,7 @@
 - [x] DefInjected\PawnKindDef\Races_Animal_Birds.xml
 - [x] DefInjected\PawnKindDef\Races_Animal_Farm.xml
 - [x] DefInjected\PawnKindDef\Races_Animal_Giant.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Hares.xml
 - [x] DefInjected\PawnKindDef\Races_Animal_Insect.xml
 - [x] DefInjected\PawnKindDef\Races_Animal_Pet.xml
 - [x] DefInjected\PawnKindDef\Races_Animal_Rodentlike.xml
@@ -133,8 +135,10 @@
 - [x] DefInjected\PawnKindDef\Races_Mechanoid.xml
 - [x] DefInjected\PawnRelationDef\PawnRelations_FamilyByBlood.xml
 - [x] DefInjected\PawnRelationDef\PawnRelations_FamilyByChoice.xml
+- [x] DefInjected\PawnRelationDef\PawnRelations_Misc.xml
 - [x] DefInjected\PrisonerInteractionModeDef\PrisonerInteractionMode.xml
 - [x] DefInjected\RaidStrategyDef\RaidStrategies.xml
+- [x] DefInjected\RecipeDef\Alcohol_Beer.xml
 - [x] DefInjected\RecipeDef\Recipes_Add_Administer.xml
 - [x] DefInjected\RecipeDef\Recipes_Add_Make.xml
 - [x] DefInjected\RecipeDef\Recipes_Butchery.xml
@@ -152,8 +156,10 @@
 - [x] DefInjected\ResearchProjectDef\ResearchProjects_3_Microelectronics.xml
 - [x] DefInjected\ResearchProjectDef\ResearchProjects_4_MultiAnalyzer.xml
 - [x] DefInjected\ResearchProjectDef\ResearchProjects_Tier4_Ship.xml
+- [x] DefInjected\ResearchTabDef\ResearchTabs.xml
 - [x] DefInjected\RiverDef\RiverDefs.xml
 - [x] DefInjected\RoadDef\RoadDefs.xml
+- [x] DefInjected\RoofDef\Roofs.xml
 - [x] DefInjected\RoomRoleDef\RoomRoles.xml
 - [x] DefInjected\RoomStatDef\RoomStats.xml
 - [x] DefInjected\RulePackDef\Interactions_Prisoner.xml
@@ -214,12 +220,6 @@
 - [x] DefInjected\WorkGiverDef\WorkGivers.xml
 - [x] DefInjected\WorkTypeDef\WorkTypes.xml
 - [x] DefInjected\WorldObjectDef\Incidents_Caravan_All.xml
-- [ ] DefInjected\PawnColumnDef\PawnColumns_Icon.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Hares.xml
-- [ ] DefInjected\PawnRelationDef\PawnRelations_Misc.xml
-- [ ] DefInjected\RecipeDef\Alcohol_Beer.xml
-- [ ] DefInjected\ResearchTabDef\ResearchTabs.xml
-- [ ] DefInjected\RoofDef\Roofs.xml
 - [ ] DefInjected\RulePackDef\RulePacks_Art_DescriptionsPhysical.xml
 - [ ] DefInjected\RulePackDef\RulePacks_Art_ImagesTaleless.xml
 - [ ] DefInjected\RulePackDef\RulePacks_Battles.xml

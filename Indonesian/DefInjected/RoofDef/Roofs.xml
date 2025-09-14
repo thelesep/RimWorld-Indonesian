@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- SKIP_TRANSLATION -->
+
   <RoofConstructed.label>Atap bangunan</RoofConstructed.label>
   <RoofRockThin.label>Atap batu (tipis)</RoofRockThin.label>
   <RoofRockThick.label>Gunung langit-langut</RoofRockThick.label>

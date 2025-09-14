@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- SKIP_TRANSLATION -->
   <Bond.headerTip>Ikatan</Bond.headerTip>
   <Info.headerTip>Info</Info.headerTip>
 

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- SKIP_TRANSLATION -->
   <Make_Wort.label>buat wort</Make_Wort.label>
   <Make_Wort.description>Buat wort dari hop.</Make_Wort.description>
   <Make_Wort.jobString>Membuat wort.</Make_Wort.jobString>

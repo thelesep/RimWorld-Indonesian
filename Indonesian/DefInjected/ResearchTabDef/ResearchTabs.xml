@@ -3,6 +3,7 @@
 
   <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
 
+  <!-- SKIP_TRANSLATION -->
   <Main.label>Main</Main.label>
 
 

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- SKIP_TRANSLATION -->
   <Hare.label>kelinci</Hare.label>
   <Hare.labelPlural>kelinci</Hare.labelPlural>
   <Hare.lifeStages.0.label>kelinci</Hare.lifeStages.0.label>
