@@ -1,82 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Column 1 -->
+  <!-- Kolom 1 -->
 
-  <PsychoidBrewing.label>psychoid brewing</PsychoidBrewing.label>
-  <PsychoidBrewing.description>Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove.</PsychoidBrewing.description>
+  <PsychoidBrewing.label>pembuatan teh psychoid</PsychoidBrewing.label>
+  <PsychoidBrewing.description>Siapkan daun psychoid menjadi teh yang memberikan sedikit euforia dan bersifat adiktif di perapian atau kompor.</PsychoidBrewing.description>
 
-  <TreeSowing.label>tree sowing</TreeSowing.label>
-  <TreeSowing.description>Sow the local biome's natural trees in your fields.</TreeSowing.description>
+  <TreeSowing.label>penanaman pohon</TreeSowing.label>
+  <TreeSowing.description>Tanam pohon alami dari bioma setempat di ladangmu.</TreeSowing.description>
 
-  <Brewing.label>beer brewing</Brewing.label>
-  <Brewing.description>Build a brewery and fermenting vats to transform hops into tasty, tasty beer.</Brewing.description>
+  <Brewing.label>pembuatan bir</Brewing.label>
+  <Brewing.description>Bangun tempat pembuatan bir dan tong fermentasi untuk mengubah hops menjadi bir yang lezat.</Brewing.description>
 
-  <ComplexFurniture.label>complex furniture</ComplexFurniture.label>
-  <ComplexFurniture.description>Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more.</ComplexFurniture.description>
+  <ComplexFurniture.label>furnitur kompleks</ComplexFurniture.label>
+  <ComplexFurniture.description>Buat furnitur kompleks seperti tempat tidur, meja ujung, kursi makan, kursi berlengan, lemari, lemari alat, meja biliar, meja poker, ventilasi, sarkofagus, dan lainnya.</ComplexFurniture.description>
 
-  <PassiveCooler.label>passive cooler</PassiveCooler.label>
-  <PassiveCooler.description>Make passive coolers, to cool indoor spaces without using electricity.</PassiveCooler.description>
+  <PassiveCooler.label>pendingin pasif</PassiveCooler.label>
+  <PassiveCooler.description>Buat pendingin pasif untuk mendinginkan ruangan tanpa menggunakan listrik.</PassiveCooler.description>
 
-  <Stonecutting.label>stonecutting</Stonecutting.label>
-  <Stonecutting.description>Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways.</Stonecutting.description>
+  <Stonecutting.label>pemotongan batu</Stonecutting.label>
+  <Stonecutting.description>Potong bongkahan batu menjadi balok batu untuk digunakan dalam konstruksi. Bangun lantai ubin batu yang indah atau jalur beton yang sederhana.</Stonecutting.description>
 
-  <ComplexClothing.label>complex clothing</ComplexClothing.label>
-  <ComplexClothing.description>Tailor complicated garments like pants, dusters, and cowboy hats.</ComplexClothing.description>
+  <ComplexClothing.label>pakaian kompleks</ComplexClothing.label>
+  <ComplexClothing.description>Jahit pakaian rumit seperti celana, mantel debu, dan topi koboi.</ComplexClothing.description>
 
 
-  <!-- Column 2 -->
+  <!-- Kolom 2 -->
 
-  <DrugProduction.label>drug production</DrugProduction.label>
-  <DrugProduction.description>Build a drug lab for basic drug synthesis. Further research is required to make specific drugs.</DrugProduction.description>
+  <DrugProduction.label>produksi obat-obatan</DrugProduction.label>
+  <DrugProduction.description>Bangun laboratorium obat untuk sintesis obat dasar. Penelitian lebih lanjut diperlukan untuk membuat obat tertentu.</DrugProduction.description>
 
-  <Cocoa.label>cocoa</Cocoa.label>
-  <Cocoa.description>Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too.</Cocoa.description>
+  <Cocoa.label>kakao</Cocoa.label>
+  <Cocoa.description>Tanam pohon kakao untuk membuat cokelat lezatmu sendiri. Makan cokelat memenuhi kebutuhan rekreasi, dan juga bernilai di pasar.</Cocoa.description>
 
   <Devilstrand.label>devilstrand</Devilstrand.label>
-  <Devilstrand.description>Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber.</Devilstrand.description>
+  <Devilstrand.description>Tanam devilstrand, jamur yang tumbuh lambat dan menghasilkan serat tanaman yang sangat kuat dan tahan panas.</Devilstrand.description>
 
-  <CarpetMaking.label>carpet making</CarpetMaking.label>
-  <CarpetMaking.description>Weave beautiful carpets from cloth.</CarpetMaking.description>
+  <CarpetMaking.label>pembuatan karpet</CarpetMaking.label>
+  <CarpetMaking.description>Tenun karpet indah dari kain.</CarpetMaking.description>
 
   <Pemmican.label>pemmican</Pemmican.label>
-  <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
+  <Pemmican.description>Buat pemmican, campuran awet dari daging dan tumbuhan yang tidak cepat basi. Sangat cocok untuk perjalanan.</Pemmican.description>
 
 
-  <!-- Column 3+ -->
+  <!-- Kolom 3+ -->
 
-  <Smithing.label>smithing</Smithing.label>
-  <Smithing.description>Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles.</Smithing.description>
+  <Smithing.label>pandai besi</Smithing.label>
+  <Smithing.description>Bangun bengkel pandai besi untuk membuat senjata logam seperti pisau, gladius, dan gada. Olah logam menjadi lantai ubin yang bersih dan indah.</Smithing.description>
 
-  <RecurveBow.label>recurve bow</RecurveBow.label>
-  <RecurveBow.description>Build the recurve bow, an effective and inexpensive ranged weapon.</RecurveBow.description>
-
-
-  <!-- Drugs -->
-
-  <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
-  <PsychiteRefining.description>Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug.</PsychiteRefining.description>
-
-  <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
-  <WakeUpProduction.description>Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep.</WakeUpProduction.description>
-
-  <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
-  <GoJuiceProduction.description>Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain.</GoJuiceProduction.description>
-
-  <PenoxycylineProduction.label>penoxycyline production</PenoxycylineProduction.label>
-  <PenoxycylineProduction.description>Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start.</PenoxycylineProduction.description>
+  <RecurveBow.label>busur recurve</RecurveBow.label>
+  <RecurveBow.description>Buat busur recurve, senjata jarak jauh yang efektif dan murah.</RecurveBow.description>
 
 
-  <!-- Medieval weapons -->
+  <!-- Obat-obatan -->
 
-  <LongBlades.label>long blades</LongBlades.label>
-  <LongBlades.description>Craft longswords and spears.</LongBlades.description>
+  <PsychiteRefining.label>pemurnian psychite</PsychiteRefining.label>
+  <PsychiteRefining.description>Perbaiki daun psychoid menjadi flake dan yayo, dua bentuk berbeda dari obat euphoric psychite.</PsychiteRefining.description>
 
-  <PlateArmor.label>plate armor</PlateArmor.label>
-  <PlateArmor.description>Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively.</PlateArmor.description>
+  <WakeUpProduction.label>produksi wake-up</WakeUpProduction.label>
+  <WakeUpProduction.description>Sintesis wake-up, obat peningkat kinerja kerja yang menggantikan kebutuhan tidur.</WakeUpProduction.description>
 
-  <Greatbow.label>greatbow</Greatbow.label>
-  <Greatbow.description>Craft greatbows for killing enemies at great range.</Greatbow.description>
+  <GoJuiceProduction.label>produksi go-juice</GoJuiceProduction.label>
+  <GoJuiceProduction.description>Hasilkan go-juice, obat sintetis peningkat performa tempur yang meningkatkan kemampuan menembak, bertarung jarak dekat, bergerak, dan mengurangi rasa sakit.</GoJuiceProduction.description>
 
+  <PenoxycylineProduction.label>produksi penoxycyline</PenoxycylineProduction.label>
+  <PenoxycylineProduction.description>Hasilkan penoxycyline, obat pencegah penyakit yang memblokir wabah, malaria, dan penyakit lainnya sebelum dimulai.</PenoxycylineProduction.description>
+
+
+  <!-- Senjata abad pertengahan -->
+
+  <LongBlades.label>senjata tajam panjang</LongBlades.label>
+  <LongBlades.description>Buat pedang panjang dan tombak.</LongBlades.description>
+
+  <PlateArmor.label>zirah pelat</PlateArmor.label>
+  <PlateArmor.description>Tempa zirah pelat dari logam atau kayu. Zirah berat ini memperlambat gerakan, tetapi memberikan perlindungan yang sangat baik.</PlateArmor.description>
+
+  <Greatbow.label>busur besar</Greatbow.label>
+  <Greatbow.description>Buat busur besar untuk menghabisi musuh dari jarak jauh.</Greatbow.description>
 
 </LanguageData>

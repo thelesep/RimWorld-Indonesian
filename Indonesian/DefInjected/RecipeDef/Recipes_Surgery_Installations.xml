@@ -1,106 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Install natural parts -->
+  <!-- Pasang organ alami -->
 
-  <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
-  <InstallNaturalKidney.description>Install a biological kidney.</InstallNaturalKidney.description>
-  <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>
+  <InstallNaturalKidney.label>pasang ginjal</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Pasang ginjal biologis.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Memasang ginjal.</InstallNaturalKidney.jobString>
 
-  <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>
-  <InstallNaturalLiver.description>Install a biological liver.</InstallNaturalLiver.description>
-  <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>
+  <InstallNaturalLiver.label>pasang hati</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Pasang hati biologis.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Memasang hati.</InstallNaturalLiver.jobString>
 
-  <InstallNaturalLung.label>install lung</InstallNaturalLung.label>
-  <InstallNaturalLung.description>Install a lung.</InstallNaturalLung.description>
-  <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>
+  <InstallNaturalLung.label>pasang paru-paru</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Pasang paru-paru.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Memasang paru-paru.</InstallNaturalLung.jobString>
 
-  <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>
-  <InstallNaturalHeart.description>Install a biological heart.</InstallNaturalHeart.description>
-  <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
+  <InstallNaturalHeart.label>pasang jantung</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Pasang jantung biologis.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Memasang jantung.</InstallNaturalHeart.jobString>
 
 
-  <!-- Install artificial parts -->
+  <!-- Pasang bagian buatan -->
 
-  <InstallPegLeg.label>install peg leg</InstallPegLeg.label>
-  <InstallPegLeg.description>Install a peg leg.</InstallPegLeg.description>
-  <InstallPegLeg.jobString>Installing peg leg.</InstallPegLeg.jobString>
+  <InstallPegLeg.label>pasang kaki kayu</InstallPegLeg.label>
+  <InstallPegLeg.description>Pasang kaki kayu.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Memasang kaki kayu.</InstallPegLeg.jobString>
 
-  <InstallWoodenFoot.label>install wooden foot</InstallWoodenFoot.label>
-  <InstallWoodenFoot.description>Install a wooden foot.</InstallWoodenFoot.description>
-  <InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
+  <InstallWoodenFoot.label>pasang kaki kayu kecil</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Pasang kaki kayu kecil.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Memasang kaki kayu kecil.</InstallWoodenFoot.jobString>
 
-  <InstallDenture.label>install denture</InstallDenture.label>
-  <InstallDenture.description>Install a denture.</InstallDenture.description>
-  <InstallDenture.jobString>Installing denture.</InstallDenture.jobString>
+  <InstallDenture.label>pasang gigi palsu</InstallDenture.label>
+  <InstallDenture.description>Pasang gigi palsu.</InstallDenture.description>
+  <InstallDenture.jobString>Memasang gigi palsu.</InstallDenture.jobString>
 
-  <InstallSimpleProstheticLeg.label>install prosthetic leg</InstallSimpleProstheticLeg.label>
-  <InstallSimpleProstheticLeg.description>Install a prosthetic leg.</InstallSimpleProstheticLeg.description>
-  <InstallSimpleProstheticLeg.jobString>Installing prosthetic leg.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.label>pasang kaki prostetik</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Pasang kaki prostetik.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Memasang kaki prostetik.</InstallSimpleProstheticLeg.jobString>
 
-  <InstallSimpleProstheticArm.label>install prosthetic arm</InstallSimpleProstheticArm.label>
-  <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
-  <InstallSimpleProstheticArm.jobString>Installing prosthetic arm.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.label>pasang lengan prostetik</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Pasang lengan prostetik.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Memasang lengan prostetik.</InstallSimpleProstheticArm.jobString>
 
-  <InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
-  <InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
-  <InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.label>pasang jantung prostetik</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Pasang jantung prostetik.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Memasang jantung prostetik.</InstallSimpleProstheticHeart.jobString>
 
-  <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
-  <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
-  <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
+  <InstallCochlearImplant.label>pasang implan koklea</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Pasang implan koklea.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Memasang implan koklea.</InstallCochlearImplant.jobString>
 
-  <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
-  <InstallBionicArm.description>Install a bionic arm.</InstallBionicArm.description>
-  <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
+  <InstallBionicArm.label>pasang lengan bionik</InstallBionicArm.label>
+  <InstallBionicArm.description>Pasang lengan bionik.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Memasang lengan bionik.</InstallBionicArm.jobString>
 
-  <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
-  <InstallBionicLeg.description>Install a bionic leg.</InstallBionicLeg.description>
-  <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
+  <InstallBionicLeg.label>pasang kaki bionik</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Pasang kaki bionik.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Memasang kaki bionik.</InstallBionicLeg.jobString>
 
-  <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
-  <InstallBionicSpine.description>Install a bionic spine.</InstallBionicSpine.description>
-  <InstallBionicSpine.jobString>Installing bionic spine.</InstallBionicSpine.jobString>
+  <InstallBionicSpine.label>pasang tulang belakang bionik</InstallBionicSpine.label>
+  <InstallBionicSpine.description>Pasang tulang belakang bionik.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>Memasang tulang belakang bionik.</InstallBionicSpine.jobString>
 
-  <InstallBionicHeart.label>install bionic heart</InstallBionicHeart.label>
-  <InstallBionicHeart.description>Install a bionic heart.</InstallBionicHeart.description>
-  <InstallBionicHeart.jobString>Installing bionic heart.</InstallBionicHeart.jobString>
+  <InstallBionicHeart.label>pasang jantung bionik</InstallBionicHeart.label>
+  <InstallBionicHeart.description>Pasang jantung bionik.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>Memasang jantung bionik.</InstallBionicHeart.jobString>
 
-  <InstallBionicStomach.label>install bionic stomach</InstallBionicStomach.label>
-  <InstallBionicStomach.description>Install a bionic stomach.</InstallBionicStomach.description>
-  <InstallBionicStomach.jobString>Installing bionic stomach.</InstallBionicStomach.jobString>
+  <InstallBionicStomach.label>pasang perut bionik</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Pasang perut bionik.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Memasang perut bionik.</InstallBionicStomach.jobString>
 
-  <InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
-  <InstallBionicEar.description>Install a bionic ear.</InstallBionicEar.description>
-  <InstallBionicEar.jobString>Installing bionic ear.</InstallBionicEar.jobString>
+  <InstallBionicEar.label>pasang telinga bionik</InstallBionicEar.label>
+  <InstallBionicEar.description>Pasang telinga bionik.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>Memasang telinga bionik.</InstallBionicEar.jobString>
 
-  <InstallArchotechArm.label>install archotech arm</InstallArchotechArm.label>
-  <InstallArchotechArm.description>Install an archotech arm.</InstallArchotechArm.description>
-  <InstallArchotechArm.jobString>Installing archotech arm.</InstallArchotechArm.jobString>
+  <InstallArchotechArm.label>pasang lengan archotech</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Pasang lengan archotech.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>Memasang lengan archotech.</InstallArchotechArm.jobString>
 
-  <InstallArchotechLeg.label>install archotech leg</InstallArchotechLeg.label>
-  <InstallArchotechLeg.description>Install an archotech leg.</InstallArchotechLeg.description>
-  <InstallArchotechLeg.jobString>Installing archotech leg.</InstallArchotechLeg.jobString>
+  <InstallArchotechLeg.label>pasang kaki archotech</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>Pasang kaki archotech.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>Memasang kaki archotech.</InstallArchotechLeg.jobString>
 
-  <InstallPowerClaw.label>install power claw</InstallPowerClaw.label>
-  <InstallPowerClaw.description>Install a power claw.</InstallPowerClaw.description>
-  <InstallPowerClaw.jobString>Installing power claw.</InstallPowerClaw.jobString>
+  <InstallPowerClaw.label>pasang cakar bertenaga</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Pasang cakar bertenaga.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Memasang cakar bertenaga.</InstallPowerClaw.jobString>
 
-  <InstallBionicEye.label>install bionic eye</InstallBionicEye.label>
-  <InstallBionicEye.description>Install a bionic eye.</InstallBionicEye.description>
-  <InstallBionicEye.jobString>Installing bionic eye.</InstallBionicEye.jobString>
+  <InstallBionicEye.label>pasang mata bionik</InstallBionicEye.label>
+  <InstallBionicEye.description>Pasang mata bionik.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Memasang mata bionik.</InstallBionicEye.jobString>
 
-  <InstallArchotechEye.label>install archotech eye</InstallArchotechEye.label>
-  <InstallArchotechEye.description>Install an archotech eye.</InstallArchotechEye.description>
-  <InstallArchotechEye.jobString>Installing archotech eye.</InstallArchotechEye.jobString>
+  <InstallArchotechEye.label>pasang mata archotech</InstallArchotechEye.label>
+  <InstallArchotechEye.description>Pasang mata archotech.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>Memasang mata archotech.</InstallArchotechEye.jobString>
 
-  <InstallJoywire.label>install joywire</InstallJoywire.label>
-  <InstallJoywire.description>Install a joywire.</InstallJoywire.description>
-  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+  <InstallJoywire.label>pasang joywire</InstallJoywire.label>
+  <InstallJoywire.description>Pasang joywire.</InstallJoywire.description>
+  <InstallJoywire.jobString>Memasang joywire.</InstallJoywire.jobString>
 
-  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
-  <InstallPainstopper.description>Install a painstopper.</InstallPainstopper.description>
-  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
-
+  <InstallPainstopper.label>pasang painstopper</InstallPainstopper.label>
+  <InstallPainstopper.description>Pasang painstopper.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Memasang painstopper.</InstallPainstopper.jobString>
 
 </LanguageData>

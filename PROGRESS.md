@@ -1,7 +1,7 @@
 # 📊 Progress Penerjemahan DefInjected
 
-**Selesai:** 169 / 358 file
-**Progres:** 47.21%
+**Selesai:** 193 / 358 file
+**Progres:** 53.91%
 
 - [x] DefInjected\ApparelLayerDef\ApparelLayerDefs.xml
 - [x] DefInjected\BillRepeatModeDef\BillRepeatModeDefs.xml
@@ -107,10 +107,34 @@
 - [x] DefInjected\NeedDef\Psychite_Yayo.xml
 - [x] DefInjected\NeedDef\Smokeleaf.xml
 - [x] DefInjected\NeedDef\WakeUp.xml
+- [x] DefInjected\PawnCapacityDef\PawnCapacity.xml
+- [x] DefInjected\PawnColumnDef\PawnColumns_Add.xml
+- [x] DefInjected\PawnColumnDef\PawnColumns_Checkbox.xml
+- [x] DefInjected\PawnColumnDef\PawnColumns_Misc.xml
+- [x] DefInjected\PawnKindDef\PawnKinds_Mercenary.xml
+- [x] DefInjected\PawnKindDef\PawnKinds_Outlander.xml
+- [x] DefInjected\PawnKindDef\PawnKinds_Pirate.xml
 - [x] DefInjected\PawnKindDef\PawnKinds_Player.xml
+- [x] DefInjected\PawnKindDef\PawnKinds_Spacer.xml
+- [x] DefInjected\PawnKindDef\PawnKinds_Special.xml
 - [x] DefInjected\PawnKindDef\PawnKinds_Tribal.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Arid.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Bears.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_BigCats.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Birds.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Farm.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Giant.xml
 - [x] DefInjected\PawnKindDef\Races_Animal_Insect.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Pet.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Rodentlike.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Temperate.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Tropical.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_WildCanines.xml
+- [x] DefInjected\PawnKindDef\Races_Mechanoid.xml
 - [x] DefInjected\PawnRelationDef\PawnRelations_FamilyByBlood.xml
+- [x] DefInjected\PawnRelationDef\PawnRelations_FamilyByChoice.xml
+- [x] DefInjected\PrisonerInteractionModeDef\PrisonerInteractionMode.xml
+- [x] DefInjected\RaidStrategyDef\RaidStrategies.xml
 - [x] DefInjected\RecipeDef\Recipes_Add_Make.xml
 - [x] DefInjected\RecipeDef\Recipes_Food.xml
 - [x] DefInjected\RecordDef\Records_Misc.xml
@@ -172,33 +196,9 @@
 - [x] DefInjected\WorkGiverDef\WorkGivers.xml
 - [x] DefInjected\WorkTypeDef\WorkTypes.xml
 - [x] DefInjected\WorldObjectDef\Incidents_Caravan_All.xml
-- [ ] DefInjected\PawnCapacityDef\PawnCapacity.xml
-- [ ] DefInjected\PawnColumnDef\PawnColumns_Add.xml
-- [ ] DefInjected\PawnColumnDef\PawnColumns_Checkbox.xml
 - [ ] DefInjected\PawnColumnDef\PawnColumns_Icon.xml
-- [ ] DefInjected\PawnColumnDef\PawnColumns_Misc.xml
-- [ ] DefInjected\PawnKindDef\PawnKinds_Mercenary.xml
-- [ ] DefInjected\PawnKindDef\PawnKinds_Outlander.xml
-- [ ] DefInjected\PawnKindDef\PawnKinds_Pirate.xml
-- [ ] DefInjected\PawnKindDef\PawnKinds_Spacer.xml
-- [ ] DefInjected\PawnKindDef\PawnKinds_Special.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Arid.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Bears.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_BigCats.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Birds.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Farm.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Giant.xml
 - [ ] DefInjected\PawnKindDef\Races_Animal_Hares.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Pet.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Rodentlike.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Temperate.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_Tropical.xml
-- [ ] DefInjected\PawnKindDef\Races_Animal_WildCanines.xml
-- [ ] DefInjected\PawnKindDef\Races_Mechanoid.xml
-- [ ] DefInjected\PawnRelationDef\PawnRelations_FamilyByChoice.xml
 - [ ] DefInjected\PawnRelationDef\PawnRelations_Misc.xml
-- [ ] DefInjected\PrisonerInteractionModeDef\PrisonerInteractionMode.xml
-- [ ] DefInjected\RaidStrategyDef\RaidStrategies.xml
 - [ ] DefInjected\RecipeDef\Alcohol_Beer.xml
 - [ ] DefInjected\RecipeDef\Recipes_Add_Administer.xml
 - [ ] DefInjected\RecipeDef\Recipes_Butchery.xml

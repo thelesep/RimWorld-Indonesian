@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PrisonerWillingToJoin.label>prisoner camp</PrisonerWillingToJoin.label>
-  <PrisonerWillingToJoin.description>A prisoner being held by enemies. Rescue him and he will join you.</PrisonerWillingToJoin.description>
-
+  <PrisonerWillingToJoin.label>kamp tahanan</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.description>Seorang tahanan yang ditahan musuh. Selamatkan dia dan dia akan bergabung denganmu.</PrisonerWillingToJoin.description>
 
 </LanguageData>

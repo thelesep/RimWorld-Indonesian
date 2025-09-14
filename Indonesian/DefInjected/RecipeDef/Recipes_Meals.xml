@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
-  <CookMealSimple.description>Cook a straightforward meal from one ingredient.</CookMealSimple.description>
-  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
+  <CookMealSimple.label>masak makanan sederhana</CookMealSimple.label>
+  <CookMealSimple.description>Masak makanan sederhana dari satu bahan.</CookMealSimple.description>
+  <CookMealSimple.jobString>Memasak makanan sederhana.</CookMealSimple.jobString>
 
-  <CookMealFine.label>cook fine meal</CookMealFine.label>
-  <CookMealFine.description>Cook a somewhat complex meal from a combination of meat and plant ingredients.</CookMealFine.description>
-  <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
+  <CookMealFine.label>masak makanan lezat</CookMealFine.label>
+  <CookMealFine.description>Masak makanan agak rumit dari kombinasi daging dan tanaman.</CookMealFine.description>
+  <CookMealFine.jobString>Memasak makanan lezat.</CookMealFine.jobString>
 
-  <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
-  <CookMealLavish.description>Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
-  <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
+  <CookMealLavish.label>masak makanan mewah</CookMealLavish.label>
+  <CookMealLavish.description>Masak makanan yang sangat rumit dari kombinasi daging dan tanaman. Banyak bahan yang terbuang.</CookMealLavish.description>
+  <CookMealLavish.jobString>Memasak makanan mewah.</CookMealLavish.jobString>
 
-  <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
-  <CookMealSurvival.description>Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvival.description>
-  <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
-
+  <CookMealSurvival.label>masak makanan darurat kemasan</CookMealSurvival.label>
+  <CookMealSurvival.description>Siapkan makanan darurat kemasan dari kombinasi daging dan tanaman. Banyak bahan terbuang dalam proses pengawetan.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Memasak makanan darurat kemasan.</CookMealSurvival.jobString>
 
 </LanguageData>

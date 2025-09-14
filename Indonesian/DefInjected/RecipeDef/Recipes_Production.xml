@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Make_StoneBlocksAny.label>make any stone blocks</Make_StoneBlocksAny.label>
-  <Make_StoneBlocksAny.description>Cut rock chunks into usable stone blocks.</Make_StoneBlocksAny.description>
-  <Make_StoneBlocksAny.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.label>buat balok batu</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.description>Potong bongkahan batu menjadi balok batu yang bisa digunakan.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.jobString>Memotong balok batu dari bongkahan.</Make_StoneBlocksAny.jobString>
 
-  <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
-  <ExtractMetalFromSlag.description>Use heat and strong electromagnets to extract useful metal from slag chunks.</ExtractMetalFromSlag.description>
-  <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.label>peleburan logam dari terak</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Gunakan panas dan elektromagnet kuat untuk mengekstrak logam berguna dari bongkahan terak.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Melebur logam dari terak.</ExtractMetalFromSlag.jobString>
 
-  <SmeltWeapon.label>smelt weapon</SmeltWeapon.label>
-  <SmeltWeapon.description>Use heat and strong electromagnets to break down weapons into useful resources.</SmeltWeapon.description>
-  <SmeltWeapon.jobString>Smelting weapon.</SmeltWeapon.jobString>
+  <SmeltWeapon.label>peleburan senjata</SmeltWeapon.label>
+  <SmeltWeapon.description>Gunakan panas dan elektromagnet kuat untuk membongkar senjata menjadi sumber daya yang bisa digunakan.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Melebur senjata.</SmeltWeapon.jobString>
 
-  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
-  <DestroyWeapon.description>Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
-  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+  <DestroyWeapon.label>hancurkan senjata</DestroyWeapon.label>
+  <DestroyWeapon.description>Gunakan panas untuk menghancurkan senjata yang tidak diinginkan. Proses ini lebih cepat dari peleburan, dan berfungsi untuk benda yang tidak bisa dilebur, tetapi tidak menghasilkan sumber daya.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Menghancurkan senjata.</DestroyWeapon.jobString>
 
-  <Make_ChemfuelFromWood.label>make chemfuel from wood</Make_ChemfuelFromWood.label>
-  <Make_ChemfuelFromWood.description>Make a batch of chemfuel by extracting and condensing wood gas from logs.</Make_ChemfuelFromWood.description>
-  <Make_ChemfuelFromWood.jobString>Refining chemfuel from wood.</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromWood.label>buat chemfuel dari kayu</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.description>Buat satu batch chemfuel dengan mengekstrak dan mengondensasi gas kayu dari gelondongan.</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.jobString>Mengolah chemfuel dari kayu.</Make_ChemfuelFromWood.jobString>
 
-  <Make_ChemfuelFromOrganics.label>make chemfuel from organics</Make_ChemfuelFromOrganics.label>
-  <Make_ChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks.</Make_ChemfuelFromOrganics.description>
-  <Make_ChemfuelFromOrganics.jobString>Refining chemfuel from organics.</Make_ChemfuelFromOrganics.jobString>
+  <Make_ChemfuelFromOrganics.label>buat chemfuel dari organik</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.description>Buat satu batch chemfuel dengan mengekstrak biofuel dari bahan organik.</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.jobString>Mengolah chemfuel dari organik.</Make_ChemfuelFromOrganics.jobString>
 
-  <Make_ComponentIndustrial.label>make component</Make_ComponentIndustrial.label>
-  <Make_ComponentIndustrial.description>Make a component.</Make_ComponentIndustrial.description>
-  <Make_ComponentIndustrial.jobString>Making component.</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.label>buat komponen</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.description>Buat sebuah komponen.</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.jobString>Membuat komponen.</Make_ComponentIndustrial.jobString>
 
-  <Make_ComponentSpacer.label>make advanced component</Make_ComponentSpacer.label>
-  <Make_ComponentSpacer.description>Make an advanced component.</Make_ComponentSpacer.description>
-  <Make_ComponentSpacer.jobString>Making advanced component.</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.label>buat komponen canggih</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.description>Buat sebuah komponen canggih.</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.jobString>Membuat komponen canggih.</Make_ComponentSpacer.jobString>
 
-  <Make_Patchleather.label>make patchleather</Make_Patchleather.label>
-  <Make_Patchleather.description>Combine various types of leather to create weak patchleather.</Make_Patchleather.description>
-  <Make_Patchleather.jobString>Making patchleather.</Make_Patchleather.jobString>
-
+  <Make_Patchleather.label>buat kulit tambalan</Make_Patchleather.label>
+  <Make_Patchleather.description>Gabungkan berbagai jenis kulit untuk membuat kulit tambalan yang kualitasnya rendah.</Make_Patchleather.description>
+  <Make_Patchleather.jobString>Membuat kulit tambalan.</Make_Patchleather.jobString>
 
 </LanguageData>

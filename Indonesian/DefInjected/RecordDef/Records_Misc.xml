@@ -3,140 +3,139 @@
 
   <!-- Combat -->
 
-  <Kills.label>kills</Kills.label>
-  <Kills.description>The number of creatures I have killed.</Kills.description>
+  <Kills.label>pembunuhan</Kills.label>
+  <Kills.description>Jumlah makhluk yang telah saya bunuh.</Kills.description>
 
-  <KillsHumanlikes.label>kills (humanlikes)</KillsHumanlikes.label>
-  <KillsHumanlikes.description>The number of humanlike characters I have killed.</KillsHumanlikes.description>
+  <KillsHumanlikes.label>pembunuhan (manusia)</KillsHumanlikes.label>
+  <KillsHumanlikes.description>Jumlah karakter mirip manusia yang telah saya bunuh.</KillsHumanlikes.description>
 
-  <KillsAnimals.label>kills (animals)</KillsAnimals.label>
-  <KillsAnimals.description>The number of animals I have killed.</KillsAnimals.description>
+  <KillsAnimals.label>pembunuhan (hewan)</KillsAnimals.label>
+  <KillsAnimals.description>Jumlah hewan yang telah saya bunuh.</KillsAnimals.description>
 
-  <KillsMechanoids.label>kills (mechanoids)</KillsMechanoids.label>
-  <KillsMechanoids.description>The number of mechanoids I have killed.</KillsMechanoids.description>
+  <KillsMechanoids.label>pembunuhan (mekanoid)</KillsMechanoids.label>
+  <KillsMechanoids.description>Jumlah mekanoid yang telah saya bunuh.</KillsMechanoids.description>
 
-  <PawnsDowned.label>enemies downed</PawnsDowned.label>
-  <PawnsDowned.description>The number of creatures I have downed.</PawnsDowned.description>
+  <PawnsDowned.label>musuh dilumpuhkan</PawnsDowned.label>
+  <PawnsDowned.description>Jumlah makhluk yang telah saya lumpuhkan.</PawnsDowned.description>
 
-  <PawnsDownedHumanlikes.label>enemies downed (humanlikes)</PawnsDownedHumanlikes.label>
-  <PawnsDownedHumanlikes.description>The number of humanlike creatures I have downed.</PawnsDownedHumanlikes.description>
+  <PawnsDownedHumanlikes.label>musuh dilumpuhkan (manusia)</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.description>Jumlah makhluk mirip manusia yang telah saya lumpuhkan.</PawnsDownedHumanlikes.description>
 
-  <PawnsDownedAnimals.label>enemies downed (animals)</PawnsDownedAnimals.label>
-  <PawnsDownedAnimals.description>The number of animals I have downed, whether hunting or in combat.</PawnsDownedAnimals.description>
+  <PawnsDownedAnimals.label>musuh dilumpuhkan (hewan)</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.description>Jumlah hewan yang telah saya lumpuhkan, baik saat berburu maupun bertarung.</PawnsDownedAnimals.description>
 
-  <PawnsDownedMechanoids.label>enemies downed (mechanoids)</PawnsDownedMechanoids.label>
-  <PawnsDownedMechanoids.description>The number of mechanoids I have downed.</PawnsDownedMechanoids.description>
+  <PawnsDownedMechanoids.label>musuh dilumpuhkan (mekanoid)</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.description>Jumlah mekanoid yang telah saya lumpuhkan.</PawnsDownedMechanoids.description>
 
-  <ShotsFired.label>shots fired</ShotsFired.label>
-  <ShotsFired.description>The number of shots I have fired.</ShotsFired.description>
+  <ShotsFired.label>tembakan dilepaskan</ShotsFired.label>
+  <ShotsFired.description>Jumlah tembakan yang telah saya lepaskan.</ShotsFired.description>
 
-  <Headshots.label>headshots</Headshots.label>
-  <Headshots.description>The number of headshots I have made.</Headshots.description>
+  <Headshots.label>tembakan kepala</Headshots.label>
+  <Headshots.description>Jumlah tembakan kepala yang telah saya lakukan.</Headshots.description>
 
-  <DamageDealt.label>damage dealt</DamageDealt.label>
-  <DamageDealt.description>The amount of damage I have dealt.</DamageDealt.description>
+  <DamageDealt.label>kerusakan diberikan</DamageDealt.label>
+  <DamageDealt.description>Jumlah kerusakan yang telah saya berikan.</DamageDealt.description>
 
-  <DamageTaken.label>damage taken</DamageTaken.label>
-  <DamageTaken.description>The amount of damage I have taken.</DamageTaken.description>
+  <DamageTaken.label>kerusakan diterima</DamageTaken.label>
+  <DamageTaken.description>Jumlah kerusakan yang telah saya terima.</DamageTaken.description>
 
 
   <!-- Excitement -->
 
-  <TimesInMentalState.label>times in mental state</TimesInMentalState.label>
-  <TimesInMentalState.description>How many times I have suffered a mental break.</TimesInMentalState.description>
+  <TimesInMentalState.label>waktu dalam kondisi mental</TimesInMentalState.label>
+  <TimesInMentalState.description>Berapa kali saya mengalami gangguan mental.</TimesInMentalState.description>
 
-  <TimesOnFire.label>times on fire</TimesOnFire.label>
-  <TimesOnFire.description>How many times I have been on fire.</TimesOnFire.description>
+  <TimesOnFire.label>waktu terbakar</TimesOnFire.label>
+  <TimesOnFire.description>Berapa kali saya terbakar.</TimesOnFire.description>
 
-  <FiresExtinguished.label>fires extinguished</FiresExtinguished.label>
-  <FiresExtinguished.description>The number of fires I have extinguished.</FiresExtinguished.description>
+  <FiresExtinguished.label>api dipadamkan</FiresExtinguished.label>
+  <FiresExtinguished.description>Jumlah api yang telah saya padamkan.</FiresExtinguished.description>
 
 
   <!-- Work -->
 
-  <OperationsReceived.label>operations received</OperationsReceived.label>
-  <OperationsReceived.description>How many times I have been medically operated on.</OperationsReceived.description>
+  <OperationsReceived.label>operasi diterima</OperationsReceived.label>
+  <OperationsReceived.description>Berapa kali saya menjalani operasi medis.</OperationsReceived.description>
 
-  <OperationsPerformed.label>operations performed</OperationsPerformed.label>
-  <OperationsPerformed.description>How many medical operations I have performed.</OperationsPerformed.description>
+  <OperationsPerformed.label>operasi dilakukan</OperationsPerformed.label>
+  <OperationsPerformed.description>Berapa kali saya melakukan operasi medis.</OperationsPerformed.description>
 
-  <TimesTendedTo.label>tends received</TimesTendedTo.label>
-  <TimesTendedTo.description>How many times I have had my medical conditions tended.</TimesTendedTo.description>
+  <TimesTendedTo.label>perawatan diterima</TimesTendedTo.label>
+  <TimesTendedTo.description>Berapa kali kondisi medis saya dirawat.</TimesTendedTo.description>
 
-  <TimesTendedOther.label>tends given</TimesTendedOther.label>
-  <TimesTendedOther.description>How many times I have tended to others' medical conditions.</TimesTendedOther.description>
+  <TimesTendedOther.label>perawatan diberikan</TimesTendedOther.label>
+  <TimesTendedOther.description>Berapa kali saya merawat kondisi medis orang lain.</TimesTendedOther.description>
 
-  <PeopleCaptured.label>people captured</PeopleCaptured.label>
-  <PeopleCaptured.description>The number of people I have captured.</PeopleCaptured.description>
+  <PeopleCaptured.label>orang ditangkap</PeopleCaptured.label>
+  <PeopleCaptured.description>Jumlah orang yang telah saya tangkap.</PeopleCaptured.description>
 
-  <PrisonersRecruited.label>prisoners recruited</PrisonersRecruited.label>
-  <PrisonersRecruited.description>The number of prisoners I have recruited.</PrisonersRecruited.description>
+  <PrisonersRecruited.label>tahanan direkrut</PrisonersRecruited.label>
+  <PrisonersRecruited.description>Jumlah tahanan yang telah saya rekrut.</PrisonersRecruited.description>
 
-  <PrisonersChatted.label>prisoners chatted</PrisonersChatted.label>
-  <PrisonersChatted.description>How many times I have chatted with prisoners.</PrisonersChatted.description>
+  <PrisonersChatted.label>tahanan diajak bicara</PrisonersChatted.label>
+  <PrisonersChatted.description>Berapa kali saya berbicara dengan tahanan.</PrisonersChatted.description>
 
-  <AnimalsTamed.label>animals tamed</AnimalsTamed.label>
-  <AnimalsTamed.description>The number of animals I have tamed.</AnimalsTamed.description>
+  <AnimalsTamed.label>hewan dijinakkan</AnimalsTamed.label>
+  <AnimalsTamed.description>Jumlah hewan yang telah saya jinakkan.</AnimalsTamed.description>
 
-  <AnimalsSlaughtered.label>animals slaughtered</AnimalsSlaughtered.label>
-  <AnimalsSlaughtered.description>The number of animals I have slaughtered.</AnimalsSlaughtered.description>
+  <AnimalsSlaughtered.label>hewan disembelih</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.description>Jumlah hewan yang telah saya sembelih.</AnimalsSlaughtered.description>
 
-  <MealsCooked.label>meals cooked</MealsCooked.label>
-  <MealsCooked.description>The number of meals I have cooked.</MealsCooked.description>
+  <MealsCooked.label>makanan dimasak</MealsCooked.label>
+  <MealsCooked.description>Jumlah makanan yang telah saya masak.</MealsCooked.description>
 
-  <ThingsConstructed.label>things constructed</ThingsConstructed.label>
-  <ThingsConstructed.description>The number of things I have constructed.</ThingsConstructed.description>
+  <ThingsConstructed.label>bangunan dibuat</ThingsConstructed.label>
+  <ThingsConstructed.description>Jumlah bangunan yang telah saya buat.</ThingsConstructed.description>
 
-  <ThingsInstalled.label>things installed</ThingsInstalled.label>
-  <ThingsInstalled.description>The number of things I have installed.</ThingsInstalled.description>
+  <ThingsInstalled.label>benda dipasang</ThingsInstalled.label>
+  <ThingsInstalled.description>Jumlah benda yang telah saya pasang.</ThingsInstalled.description>
 
-  <ThingsRepaired.label>things repaired</ThingsRepaired.label>
-  <ThingsRepaired.description>The number of things I have repaired.</ThingsRepaired.description>
+  <ThingsRepaired.label>benda diperbaiki</ThingsRepaired.label>
+  <ThingsRepaired.description>Jumlah benda yang telah saya perbaiki.</ThingsRepaired.description>
 
-  <ThingsCrafted.label>things crafted</ThingsCrafted.label>
-  <ThingsCrafted.description>The number of things I have crafted.</ThingsCrafted.description>
+  <ThingsCrafted.label>benda dibuat</ThingsCrafted.label>
+  <ThingsCrafted.description>Jumlah benda yang telah saya buat.</ThingsCrafted.description>
 
-  <ThingsHauled.label>things hauled</ThingsHauled.label>
-  <ThingsHauled.description>The number of things I have hauled.</ThingsHauled.description>
+  <ThingsHauled.label>benda diangkut</ThingsHauled.label>
+  <ThingsHauled.description>Jumlah benda yang telah saya angkut.</ThingsHauled.description>
 
-  <PlantsSown.label>plants sown</PlantsSown.label>
-  <PlantsSown.description>The number of plants I have sown.</PlantsSown.description>
+  <PlantsSown.label>tanaman ditanam</PlantsSown.label>
+  <PlantsSown.description>Jumlah tanaman yang telah saya tanam.</PlantsSown.description>
 
-  <PlantsHarvested.label>plants harvested</PlantsHarvested.label>
-  <PlantsHarvested.description>The number of plants I have harvested.</PlantsHarvested.description>
+  <PlantsHarvested.label>tanaman dipanen</PlantsHarvested.label>
+  <PlantsHarvested.description>Jumlah tanaman yang telah saya panen.</PlantsHarvested.description>
 
-  <CellsMined.label>cells mined</CellsMined.label>
-  <CellsMined.description>The number of cells I have mined out.</CellsMined.description>
+  <CellsMined.label>sel ditambang</CellsMined.label>
+  <CellsMined.description>Jumlah sel yang telah saya tambang.</CellsMined.description>
 
-  <MessesCleaned.label>messes cleaned</MessesCleaned.label>
-  <MessesCleaned.description>The number of messes I have cleaned up.</MessesCleaned.description>
+  <MessesCleaned.label>kekacauan dibersihkan</MessesCleaned.label>
+  <MessesCleaned.description>Jumlah kekacauan yang telah saya bersihkan.</MessesCleaned.description>
 
-  <ResearchPointsResearched.label>research points researched</ResearchPointsResearched.label>
-  <ResearchPointsResearched.description>The number of research points I have researched.</ResearchPointsResearched.description>
+  <ResearchPointsResearched.label>poin riset diteliti</ResearchPointsResearched.label>
+  <ResearchPointsResearched.description>Jumlah poin riset yang telah saya teliti.</ResearchPointsResearched.description>
 
-  <CorpsesBuried.label>corpses buried</CorpsesBuried.label>
-  <CorpsesBuried.description>The number of corpses I have buried.</CorpsesBuried.description>
+  <CorpsesBuried.label>mayat dikubur</CorpsesBuried.label>
+  <CorpsesBuried.description>Jumlah mayat yang telah saya kubur.</CorpsesBuried.description>
 
-  <NutritionEaten.label>nutrition eaten</NutritionEaten.label>
-  <NutritionEaten.description>The amount of nutrition I have eaten.</NutritionEaten.description>
+  <NutritionEaten.label>nutrisi dimakan</NutritionEaten.label>
+  <NutritionEaten.description>Jumlah nutrisi yang telah saya makan.</NutritionEaten.description>
 
-  <BodiesStripped.label>bodies stripped</BodiesStripped.label>
-  <BodiesStripped.description>The number of bodies I have stripped.</BodiesStripped.description>
+  <BodiesStripped.label>mayat dilucuti</BodiesStripped.label>
+  <BodiesStripped.description>Jumlah mayat yang telah saya lucuti.</BodiesStripped.description>
 
-  <ThingsUninstalled.label>things uninstalled</ThingsUninstalled.label>
-  <ThingsUninstalled.description>The number of things I have uninstalled.</ThingsUninstalled.description>
+  <ThingsUninstalled.label>benda dilepas</ThingsUninstalled.label>
+  <ThingsUninstalled.description>Jumlah benda yang telah saya lepas.</ThingsUninstalled.description>
 
-  <ThingsDeconstructed.label>things deconstructed</ThingsDeconstructed.label>
-  <ThingsDeconstructed.description>The number of things I have deconstructed.</ThingsDeconstructed.description>
+  <ThingsDeconstructed.label>benda dibongkar</ThingsDeconstructed.label>
+  <ThingsDeconstructed.description>Jumlah benda yang telah saya bongkar.</ThingsDeconstructed.description>
 
-  <ArtifactsActivated.label>artifacts activated</ArtifactsActivated.label>
-  <ArtifactsActivated.description>The number of artifacts I have activated.</ArtifactsActivated.description>
+  <ArtifactsActivated.label>artefak diaktifkan</ArtifactsActivated.label>
+  <ArtifactsActivated.description>Jumlah artefak yang telah saya aktifkan.</ArtifactsActivated.description>
 
-  <ContainersOpened.label>containers opened</ContainersOpened.label>
-  <ContainersOpened.description>The number of containers I have opened.</ContainersOpened.description>
+  <ContainersOpened.label>kontainer dibuka</ContainersOpened.label>
+  <ContainersOpened.description>Jumlah kontainer yang telah saya buka.</ContainersOpened.description>
 
-  <SwitchesFlicked.label>switches flicked</SwitchesFlicked.label>
-  <SwitchesFlicked.description>The number of switches I have flicked.</SwitchesFlicked.description>
-
+  <SwitchesFlicked.label>saklar dipindah</SwitchesFlicked.label>
+  <SwitchesFlicked.description>Jumlah saklar yang telah saya pindah.</SwitchesFlicked.description>
 
 </LanguageData>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ItemStash.label>item stash</ItemStash.label>
-  <ItemStash.description>A stash of valuable items.</ItemStash.description>
-
+  <ItemStash.label>tempat barang</ItemStash.label>
+  <ItemStash.description>Tempat penyimpanan barang-barang berharga.</ItemStash.description>
 
 </LanguageData>

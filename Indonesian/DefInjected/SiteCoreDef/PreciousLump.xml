@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PreciousLump.label>lump of precious resources</PreciousLump.label>
-  <PreciousLump.description>A mineable lump of precious resources.</PreciousLump.description>
-
+  <PreciousLump.label>gumpalan sumber daya berharga</PreciousLump.label>
+  <PreciousLump.description>Gumpalan sumber daya berharga yang bisa ditambang.</PreciousLump.description>
 
 </LanguageData>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HugeRiver.label>huge river</HugeRiver.label>
-  <LargeRiver.label>large river</LargeRiver.label>
-  <River.label>river</River.label>
-  <Creek.label>creek</Creek.label>
-
+  <HugeRiver.label>sungai sangat besar</HugeRiver.label>
+  <LargeRiver.label>sungai besar</LargeRiver.label>
+  <River.label>sungai</River.label>
+  <Creek.label>anak sungai</Creek.label>
 
 </LanguageData>

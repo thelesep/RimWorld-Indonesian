@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Nothing.label>site</Nothing.label>
-  <Nothing.description>A location in the world which contains nothing special.</Nothing.description>
-
+  <Nothing.label>lokasi</Nothing.label>
+  <Nothing.description>Sebuah lokasi di dunia yang tidak memiliki hal istimewa.</Nothing.description>
 
 </LanguageData>

@@ -1,74 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TimeAsColonistOrColonyAnimal.label>time as a colonist</TimeAsColonistOrColonyAnimal.label>
-  <TimeAsColonistOrColonyAnimal.description>Total time spent loyal to your community.</TimeAsColonistOrColonyAnimal.description>
+  <TimeAsColonistOrColonyAnimal.label>waktu sebagai kolonis</TimeAsColonistOrColonyAnimal.label>
+  <TimeAsColonistOrColonyAnimal.description>Total waktu yang dihabiskan sebagai bagian setia dari komunitasmu.</TimeAsColonistOrColonyAnimal.description>
 
-  <TimeAsPrisoner.label>time as a prisoner</TimeAsPrisoner.label>
-  <TimeAsPrisoner.description>Total time spent as a prisoner.</TimeAsPrisoner.description>
+  <TimeAsPrisoner.label>waktu sebagai tahanan</TimeAsPrisoner.label>
+  <TimeAsPrisoner.description>Total waktu yang dihabiskan sebagai tahanan.</TimeAsPrisoner.description>
 
-  <TimeInBed.label>time in a bed</TimeInBed.label>
-  <TimeInBed.description>Total time spent in bed.</TimeInBed.description>
+  <TimeInBed.label>waktu di tempat tidur</TimeInBed.label>
+  <TimeInBed.description>Total waktu yang dihabiskan di tempat tidur.</TimeInBed.description>
 
-  <TimeInBedForMedicalReasons.label>time in a bed for medical reasons</TimeInBedForMedicalReasons.label>
-  <TimeInBedForMedicalReasons.description>Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
+  <TimeInBedForMedicalReasons.label>waktu di tempat tidur untuk alasan medis</TimeInBedForMedicalReasons.label>
+  <TimeInBedForMedicalReasons.description>Total waktu dihabiskan di tempat tidur untuk alasan medis: menunggu perawatan, pemulihan dari cedera, atau menjalani operasi.</TimeInBedForMedicalReasons.description>
 
-  <TimeDowned.label>time downed</TimeDowned.label>
-  <TimeDowned.description>Total time spent downed.</TimeDowned.description>
+  <TimeDowned.label>waktu dalam kondisi tidak sadarkan diri</TimeDowned.label>
+  <TimeDowned.description>Total waktu yang dihabiskan dalam kondisi tidak sadarkan diri.</TimeDowned.description>
 
-  <TimeGettingFood.label>time finding food and eating</TimeGettingFood.label>
-  <TimeGettingFood.description>Total time spent on finding food and eating.</TimeGettingFood.description>
+  <TimeGettingFood.label>waktu mencari dan makan makanan</TimeGettingFood.label>
+  <TimeGettingFood.description>Total waktu yang dihabiskan untuk mencari dan makan makanan.</TimeGettingFood.description>
 
-  <TimeGettingJoy.label>time spent on entertainment</TimeGettingJoy.label>
-  <TimeGettingJoy.description>Total time spent on entertainment.</TimeGettingJoy.description>
+  <TimeGettingJoy.label>waktu untuk hiburan</TimeGettingJoy.label>
+  <TimeGettingJoy.description>Total waktu yang dihabiskan untuk hiburan.</TimeGettingJoy.description>
 
-  <TimeUnderRoof.label>time under a roof</TimeUnderRoof.label>
-  <TimeUnderRoof.description>Total time spent under a roof.</TimeUnderRoof.description>
+  <TimeUnderRoof.label>waktu di bawah atap</TimeUnderRoof.label>
+  <TimeUnderRoof.description>Total waktu yang dihabiskan di bawah atap.</TimeUnderRoof.description>
 
-  <TimeDrafted.label>time drafted</TimeDrafted.label>
-  <TimeDrafted.description>Total time spent drafted.</TimeDrafted.description>
+  <TimeDrafted.label>waktu sebagai tentara</TimeDrafted.label>
+  <TimeDrafted.description>Total waktu yang dihabiskan sebagai tentara (dalam status militer).</TimeDrafted.description>
 
-  <TimeOnFire.label>time on fire</TimeOnFire.label>
-  <TimeOnFire.description>Total time spent on fire.</TimeOnFire.description>
+  <TimeOnFire.label>waktu terbakar</TimeOnFire.label>
+  <TimeOnFire.description>Total waktu yang dihabiskan saat terbakar.</TimeOnFire.description>
 
-  <TimeInMentalState.label>time in mental state</TimeInMentalState.label>
-  <TimeInMentalState.description>Total time spent in an abnormal mental state.</TimeInMentalState.description>
+  <TimeInMentalState.label>waktu dalam kondisi mental terganggu</TimeInMentalState.label>
+  <TimeInMentalState.description>Total waktu yang dihabiskan dalam kondisi mental terganggu.</TimeInMentalState.description>
 
-  <TimeHauling.label>time hauling</TimeHauling.label>
-  <TimeHauling.description>Total time spent hauling things.</TimeHauling.description>
+  <TimeHauling.label>waktu mengangkut barang</TimeHauling.label>
+  <TimeHauling.description>Total waktu yang dihabiskan untuk mengangkut barang.</TimeHauling.description>
 
-  <TimeHandlingAnimals.label>time handling animals</TimeHandlingAnimals.label>
-  <TimeHandlingAnimals.description>Total time spent handling animals.</TimeHandlingAnimals.description>
+  <TimeHandlingAnimals.label>waktu menangani hewan</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.description>Total waktu yang dihabiskan untuk menangani hewan.</TimeHandlingAnimals.description>
 
-  <TimeFirefighting.label>time firefighting</TimeFirefighting.label>
-  <TimeFirefighting.description>Total time spent firefighting.</TimeFirefighting.description>
+  <TimeFirefighting.label>waktu memadamkan api</TimeFirefighting.label>
+  <TimeFirefighting.description>Total waktu yang dihabiskan untuk memadamkan api.</TimeFirefighting.description>
 
-  <TimeWardening.label>time wardening</TimeWardening.label>
-  <TimeWardening.description>Total time spent wardening.</TimeWardening.description>
+  <TimeWardening.label>waktu menjaga tahanan</TimeWardening.label>
+  <TimeWardening.description>Total waktu yang dihabiskan untuk menjaga tahanan.</TimeWardening.description>
 
-  <TimeHunting.label>time hunting</TimeHunting.label>
-  <TimeHunting.description>Total time spent hunting.</TimeHunting.description>
+  <TimeHunting.label>waktu berburu</TimeHunting.label>
+  <TimeHunting.description>Total waktu yang dihabiskan untuk berburu.</TimeHunting.description>
 
-  <TimeConstructing.label>time constructing</TimeConstructing.label>
-  <TimeConstructing.description>Total time spent constructing and deconstructing buildings.</TimeConstructing.description>
+  <TimeConstructing.label>waktu membangun</TimeConstructing.label>
+  <TimeConstructing.description>Total waktu yang dihabiskan untuk membangun dan membongkar bangunan.</TimeConstructing.description>
 
-  <TimeTreatingAndFeeding.label>time treating and feeding</TimeTreatingAndFeeding.label>
-  <TimeTreatingAndFeeding.description>Total time spent treating and feeding patients.</TimeTreatingAndFeeding.description>
+  <TimeTreatingAndFeeding.label>waktu merawat dan memberi makan</TimeTreatingAndFeeding.label>
+  <TimeTreatingAndFeeding.description>Total waktu yang dihabiskan untuk merawat dan memberi makan pasien.</TimeTreatingAndFeeding.description>
 
-  <TimeResearching.label>time researching</TimeResearching.label>
-  <TimeResearching.description>Total time spent researching.</TimeResearching.description>
+  <TimeResearching.label>waktu meneliti</TimeResearching.label>
+  <TimeResearching.description>Total waktu yang dihabiskan untuk meneliti.</TimeResearching.description>
 
-  <TimeCleaning.label>time cleaning</TimeCleaning.label>
-  <TimeCleaning.description>Total time spent cleaning.</TimeCleaning.description>
+  <TimeCleaning.label>waktu membersihkan</TimeCleaning.label>
+  <TimeCleaning.description>Total waktu yang dihabiskan untuk membersihkan.</TimeCleaning.description>
 
-  <TimeRepairing.label>time repairing</TimeRepairing.label>
-  <TimeRepairing.description>Total time spent repairing.</TimeRepairing.description>
+  <TimeRepairing.label>waktu memperbaiki</TimeRepairing.label>
+  <TimeRepairing.description>Total waktu yang dihabiskan untuk memperbaiki.</TimeRepairing.description>
 
-  <TimeMining.label>time mining</TimeMining.label>
-  <TimeMining.description>Total time spent mining.</TimeMining.description>
+  <TimeMining.label>waktu menambang</TimeMining.label>
+  <TimeMining.description>Total waktu yang dihabiskan untuk menambang.</TimeMining.description>
 
-  <TimeSowingAndHarvesting.label>time sowing and harvesting</TimeSowingAndHarvesting.label>
-  <TimeSowingAndHarvesting.description>Total time spent sowing, harvesting and cutting plants.</TimeSowingAndHarvesting.description>
-
+  <TimeSowingAndHarvesting.label>waktu menanam dan memanen</TimeSowingAndHarvesting.label>
+  <TimeSowingAndHarvesting.description>Total waktu yang dihabiskan untuk menanam, memanen, dan memotong tanaman.</TimeSowingAndHarvesting.description>
 
 </LanguageData>

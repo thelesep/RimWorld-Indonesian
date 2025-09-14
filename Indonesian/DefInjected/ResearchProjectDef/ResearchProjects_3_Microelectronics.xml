@@ -1,44 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MicroelectronicsBasics.label>microelectronics</MicroelectronicsBasics.label>
-  <MicroelectronicsBasics.description>Work with complex microelectronics. This unlocks the hi-tech research bench and comms console.</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.label>mikroelektronika</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>Bekerja dengan mikroelektronika kompleks. Ini membuka meja riset berteknologi tinggi dan konsol komunikasi.</MicroelectronicsBasics.description>
 
-  <FlatscreenTelevision.label>flatscreen television</FlatscreenTelevision.label>
-  <FlatscreenTelevision.description>Produce high-resolution flatscreen televisions for greater enjoyment.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.label>televisi layar datar</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>Memproduksi televisi layar datar beresolusi tinggi untuk hiburan yang lebih baik.</FlatscreenTelevision.description>
 
-  <ColoredLights.label>colored lights</ColoredLights.label>
-  <ColoredLights.description>Construct colored lights for decorative purposes. Cosmetic only.</ColoredLights.description>
+  <ColoredLights.label>lampu berwarna</ColoredLights.label>
+  <ColoredLights.description>Membuat lampu berwarna untuk tujuan dekoratif. Hanya bersifat kosmetik.</ColoredLights.description>
 
-  <MoisturePump.label>moisture pump</MoisturePump.label>
-  <MoisturePump.description>Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand.</MoisturePump.description>
+  <MoisturePump.label>pompa kelembapan</MoisturePump.label>
+  <MoisturePump.description>Membangun pompa kelembapan yang secara perlahan menormalkan kadar air di tanah di sekitarnya. Dapat mengubah tanah basah menjadi kering dan pasir lunak menjadi pasir normal.</MoisturePump.description>
 
-  <HospitalBed.label>hospital bed</HospitalBed.label>
-  <HospitalBed.description>Construct hospital beds which improve medical outcomes.</HospitalBed.description>
+  <HospitalBed.label>tempat tidur rumah sakit</HospitalBed.label>
+  <HospitalBed.description>Membangun tempat tidur rumah sakit yang meningkatkan hasil perawatan medis.</HospitalBed.description>
 
-  <TransportPod.label>transport pod</TransportPod.label>
-  <TransportPod.description>Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more.</TransportPod.description>
+  <TransportPod.label>kapsul transportasi</TransportPod.label>
+  <TransportPod.description>Membangun kapsul transportasi yang dapat diluncurkan untuk mengirim orang dan persediaan jarak jauh di permukaan planet. Dapat digunakan untuk penyerangan, perjalanan, mengirim hadiah, dan lainnya.</TransportPod.description>
 
-  <MedicineProduction.label>medicine production</MedicineProduction.label>
-  <MedicineProduction.description>Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth.</MedicineProduction.description>
+  <MedicineProduction.label>produksi obat</MedicineProduction.label>
+  <MedicineProduction.description>Memproduksi obat standar teknologi industri dengan menggabungkan obat herbal, neutroamine, dan kain.</MedicineProduction.description>
 
-  <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
-  <LongRangeMineralScanner.description>Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.label>pemindai mineral jarak jauh</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Membangun pemindai mineral jarak jauh yang dapat digunakan peneliti untuk mendeteksi mineral berharga di seluruh planet. Dapat disetel untuk menemukan mineral tertentu. Membutuhkan komponen canggih untuk dibangun.</LongRangeMineralScanner.description>
 
-  <ShieldBelt.label>shield belt</ShieldBelt.label>
-  <ShieldBelt.description>Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out.</ShieldBelt.description>
-
+  <ShieldBelt.label>sabuk perisai</ShieldBelt.label>
+  <ShieldBelt.description>Membangun sabuk perisai yang menggunakan teknologi penolak momentum untuk memblokir serangan jarak jauh, baik masuk maupun keluar.</ShieldBelt.description>
 
   <!-- Machining and its children sub-tier -->
 
-  <PrecisionRifling.label>precision rifling</PrecisionRifling.label>
-  <PrecisionRifling.description>Craft precisely-machined guns like assault rifles and sniper rifles.</PrecisionRifling.description>
+  <PrecisionRifling.label>senjata presisi</PrecisionRifling.label>
+  <PrecisionRifling.description>Membuat senjata presisi seperti senapan serbu dan senapan sniper.</PrecisionRifling.description>
 
-  <HeavyTurrets.label>autocannon turret</HeavyTurrets.label>
-  <HeavyTurrets.description>Produce the heavy, long-ranged autocannon turret.</HeavyTurrets.description>
+  <HeavyTurrets.label>menara autocannon</HeavyTurrets.label>
+  <HeavyTurrets.description>Membuat menara autocannon berat dengan jangkauan jauh.</HeavyTurrets.description>
 
-  <MultibarrelWeapons.label>multibarrel weapons</MultibarrelWeapons.label>
-  <MultibarrelWeapons.description>Assemble miniguns.</MultibarrelWeapons.description>
-
+  <MultibarrelWeapons.label>senjata laras ganda</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Merakit minigun.</MultibarrelWeapons.description>
 
 </LanguageData>

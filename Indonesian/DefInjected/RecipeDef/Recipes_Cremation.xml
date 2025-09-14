@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CremateCorpse.label>cremate corpse</CremateCorpse.label>
-  <CremateCorpse.description>Cremate a corpse to completely destroy it.</CremateCorpse.description>
-  <CremateCorpse.jobString>Cremating.</CremateCorpse.jobString>
+  <CremateCorpse.label>kremasi mayat</CremateCorpse.label>
+  <CremateCorpse.description>Kremasi mayat untuk menghancurkannya sepenuhnya.</CremateCorpse.description>
+  <CremateCorpse.jobString>Mengkremasi.</CremateCorpse.jobString>
 
-  <BurnApparel.label>burn apparel</BurnApparel.label>
-  <BurnApparel.description>Burn unwanted apparel to completely destroy it.</BurnApparel.description>
-  <BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>
+  <BurnApparel.label>bakar pakaian</BurnApparel.label>
+  <BurnApparel.description>Bakar pakaian yang tidak diinginkan untuk menghancurkannya sepenuhnya.</BurnApparel.description>
+  <BurnApparel.jobString>Membakar pakaian.</BurnApparel.jobString>
 
-  <BurnDrugs.label>burn drugs</BurnDrugs.label>
-  <BurnDrugs.description>Burn unwanted drugs to completely destroy them.</BurnDrugs.description>
-  <BurnDrugs.jobString>Burning drugs.</BurnDrugs.jobString>
-
+  <BurnDrugs.label>bakar narkotika</BurnDrugs.label>
+  <BurnDrugs.description>Bakar narkotika yang tidak diinginkan untuk menghancurkannya sepenuhnya.</BurnDrugs.description>
+  <BurnDrugs.jobString>Membakar narkotika.</BurnDrugs.jobString>
 
 </LanguageData>

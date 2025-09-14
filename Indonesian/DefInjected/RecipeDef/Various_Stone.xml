@@ -3,37 +3,36 @@
 
   <!-- Sandstone -->
 
-  <Make_StoneBlocksSandstone.label>make sandstone blocks</Make_StoneBlocksSandstone.label>
-  <Make_StoneBlocksSandstone.description>Cuts sandstone chunks into usable blocks.</Make_StoneBlocksSandstone.description>
-  <Make_StoneBlocksSandstone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksSandstone.jobString>
+  <Make_StoneBlocksSandstone.label>buat balok batu pasir</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSandstone.description>Memotong bongkahan batu pasir menjadi balok yang bisa digunakan.</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksSandstone.jobString>Memotong balok batu dari bongkahan.</Make_StoneBlocksSandstone.jobString>
 
 
   <!-- Granite -->
 
-  <Make_StoneBlocksGranite.label>make granite blocks</Make_StoneBlocksGranite.label>
-  <Make_StoneBlocksGranite.description>Cuts granite chunks into usable blocks.</Make_StoneBlocksGranite.description>
-  <Make_StoneBlocksGranite.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksGranite.jobString>
+  <Make_StoneBlocksGranite.label>buat balok granit</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksGranite.description>Memotong bongkahan granit menjadi balok yang bisa digunakan.</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksGranite.jobString>Memotong balok batu dari bongkahan.</Make_StoneBlocksGranite.jobString>
 
 
   <!-- Limestone -->
 
-  <Make_StoneBlocksLimestone.label>make limestone blocks</Make_StoneBlocksLimestone.label>
-  <Make_StoneBlocksLimestone.description>Cuts limestone chunks into usable blocks.</Make_StoneBlocksLimestone.description>
-  <Make_StoneBlocksLimestone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksLimestone.jobString>
+  <Make_StoneBlocksLimestone.label>buat balok batu kapur</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksLimestone.description>Memotong bongkahan batu kapur menjadi balok yang bisa digunakan.</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksLimestone.jobString>Memotong balok batu dari bongkahan.</Make_StoneBlocksLimestone.jobString>
 
 
   <!-- Slate -->
 
-  <Make_StoneBlocksSlate.label>make slate blocks</Make_StoneBlocksSlate.label>
-  <Make_StoneBlocksSlate.description>Cuts slate chunks into usable blocks.</Make_StoneBlocksSlate.description>
-  <Make_StoneBlocksSlate.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksSlate.jobString>
+  <Make_StoneBlocksSlate.label>buat balok serpih</Make_StoneBlocksSlate.label>
+  <Make_StoneBlocksSlate.description>Memotong bongkahan batu serpih menjadi balok yang bisa digunakan.</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksSlate.jobString>Memotong balok batu dari bongkahan.</Make_StoneBlocksSlate.jobString>
 
 
   <!-- Marble -->
 
-  <Make_StoneBlocksMarble.label>make marble blocks</Make_StoneBlocksMarble.label>
-  <Make_StoneBlocksMarble.description>Cuts marble chunks into usable blocks.</Make_StoneBlocksMarble.description>
-  <Make_StoneBlocksMarble.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksMarble.jobString>
-
+  <Make_StoneBlocksMarble.label>buat balok marmer</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksMarble.description>Memotong bongkahan marmer menjadi balok yang bisa digunakan.</Make_StoneBlocksMarble.description>
+  <Make_StoneBlocksMarble.jobString>Memotong balok batu dari bongkahan.</Make_StoneBlocksMarble.jobString>
 
 </LanguageData>
