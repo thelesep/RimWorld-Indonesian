@@ -3,59 +3,59 @@
 
   <!-- close family -->
 
-  <Parent.label>father</Parent.label>
-  <Parent.labelFemale>mother</Parent.labelFemale>
+  <Parent.label>ayah</Parent.label>
+  <Parent.labelFemale>ibu</Parent.labelFemale>
 
-  <Child.label>son</Child.label>
-  <Child.labelFemale>daughter</Child.labelFemale>
+  <Child.label>anak laki-laki</Child.label>
+  <Child.labelFemale>anak perempuan</Child.labelFemale>
 
-  <Sibling.label>brother</Sibling.label>
-  <Sibling.labelFemale>sister</Sibling.labelFemale>
+  <Sibling.label>saudara laki-laki</Sibling.label>
+  <Sibling.labelFemale>saudara perempuan</Sibling.labelFemale>
 
-  <HalfSibling.label>brother</HalfSibling.label>
-  <HalfSibling.labelFemale>sister</HalfSibling.labelFemale>
+  <HalfSibling.label>saudara tiri laki-laki</HalfSibling.label>
+  <HalfSibling.labelFemale>saudara tiri perempuan</HalfSibling.labelFemale>
 
-  <Grandparent.label>grandfather</Grandparent.label>
-  <Grandparent.labelFemale>grandmother</Grandparent.labelFemale>
+  <Grandparent.label>kakek</Grandparent.label>
+  <Grandparent.labelFemale>nenek</Grandparent.labelFemale>
 
-  <Grandchild.label>grandson</Grandchild.label>
-  <Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>
+  <Grandchild.label>cucu laki-laki</Grandchild.label>
+  <Grandchild.labelFemale>cucu perempuan</Grandchild.labelFemale>
 
-  <NephewOrNiece.label>nephew</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
+  <NephewOrNiece.label>keponakan laki-laki</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>keponakan perempuan</NephewOrNiece.labelFemale>
 
-  <UncleOrAunt.label>uncle</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
+  <UncleOrAunt.label>paman</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>bibi</UncleOrAunt.labelFemale>
 
-  <Cousin.label>cousin</Cousin.label>
-  <Cousin.labelFemale>cousin</Cousin.labelFemale>
+  <Cousin.label>sepupu</Cousin.label>
+  <Cousin.labelFemale>sepupu</Cousin.labelFemale>
 
 
   <!-- distant family -->
 
-  <GreatGrandparent.label>great grandfather</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>
+  <GreatGrandparent.label>buyut laki-laki</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>buyut perempuan</GreatGrandparent.labelFemale>
 
-  <GreatGrandchild.label>great grandson</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>
+  <GreatGrandchild.label>cicit laki-laki</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>cicit perempuan</GreatGrandchild.labelFemale>
 
-  <GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>
+  <GranduncleOrGrandaunt.label>paman buyut</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>bibi buyut</GranduncleOrGrandaunt.labelFemale>
 
-  <GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
+  <GrandnephewOrGrandniece.label>keponakan buyut laki-laki</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>keponakan buyut perempuan</GrandnephewOrGrandniece.labelFemale>
 
-  <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>
+  <CousinOnceRemoved.label>sepupu generasi berbeda</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>sepupu generasi berbeda</CousinOnceRemoved.labelFemale>
 
-  <SecondCousin.label>second cousin</SecondCousin.label>
-  <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>
+  <SecondCousin.label>sepupu tingkat dua</SecondCousin.label>
+  <SecondCousin.labelFemale>sepupu tingkat dua</SecondCousin.labelFemale>
 
 
   <!-- kin -->
 
-  <Kin.label>kin</Kin.label>
-  <Kin.labelFemale>kin</Kin.labelFemale>
+  <Kin.label>kerabat</Kin.label>
+  <Kin.labelFemale>kerabat</Kin.labelFemale>
 
 
 </LanguageData>

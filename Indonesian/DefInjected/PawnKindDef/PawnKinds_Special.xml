@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Slave.label>slave</Slave.label>
-  <Slave.labelPlural>slaves</Slave.labelPlural>
+  <Slave.label>budak</Slave.label>
+  <Slave.labelPlural>para budak</Slave.labelPlural>
 
-  <WildMan.label>wild man</WildMan.label>
-  <WildMan.labelPlural>wild men</WildMan.labelPlural>
-  <WildMan.labelMale>male wild man</WildMan.labelMale>
-  <WildMan.labelMalePlural>male wild men</WildMan.labelMalePlural>
-  <WildMan.labelFemale>wild woman</WildMan.labelFemale>
-  <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>
+  <WildMan.label>manusia liar</WildMan.label>
+  <WildMan.labelPlural>para manusia liar</WildMan.labelPlural>
+  <WildMan.labelMale>pria liar</WildMan.labelMale>
+  <WildMan.labelMalePlural>para pria liar</WildMan.labelMalePlural>
+  <WildMan.labelFemale>wanita liar</WildMan.labelFemale>
+  <WildMan.labelFemalePlural>para wanita liar</WildMan.labelFemalePlural>
 
-  <StrangerInBlack.label>stranger in black</StrangerInBlack.label>
-  <StrangerInBlack.labelPlural>strangers in black</StrangerInBlack.labelPlural>
-  <StrangerInBlack.labelMale>man in black</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelMalePlural>male strangers in black</StrangerInBlack.labelMalePlural>
-  <StrangerInBlack.labelFemale>woman in black</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelFemalePlural>female strangers in black</StrangerInBlack.labelFemalePlural>
-
+  <StrangerInBlack.label>orang asing berbaju hitam</StrangerInBlack.label>
+  <StrangerInBlack.labelPlural>para orang asing berbaju hitam</StrangerInBlack.labelPlural>
+  <StrangerInBlack.labelMale>pria berbaju hitam</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelMalePlural>para pria berbaju hitam</StrangerInBlack.labelMalePlural>
+  <StrangerInBlack.labelFemale>wanita berbaju hitam</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelFemalePlural>para wanita berbaju hitam</StrangerInBlack.labelFemalePlural>
 
 </LanguageData>

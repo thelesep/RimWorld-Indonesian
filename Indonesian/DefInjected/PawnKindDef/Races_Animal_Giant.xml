@@ -1,105 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
-  <Rhinoceros.labelPlural>rhinoceroses</Rhinoceros.labelPlural>
-  <Rhinoceros.lifeStages.0.label>rhinoceros</Rhinoceros.lifeStages.0.label>
-  <Rhinoceros.lifeStages.0.labelPlural>rhinoceroses</Rhinoceros.lifeStages.0.labelPlural>
-  <Rhinoceros.lifeStages.0.labelMale>male rhinoceros</Rhinoceros.lifeStages.0.labelMale>
-  <Rhinoceros.lifeStages.0.labelMalePlural>male rhinoceross</Rhinoceros.lifeStages.0.labelMalePlural>
-  <Rhinoceros.lifeStages.0.labelFemale>female rhinoceros</Rhinoceros.lifeStages.0.labelFemale>
-  <Rhinoceros.lifeStages.0.labelFemalePlural>female rhinoceross</Rhinoceros.lifeStages.0.labelFemalePlural>
-  <Rhinoceros.lifeStages.1.label>rhinoceros</Rhinoceros.lifeStages.1.label>
-  <Rhinoceros.lifeStages.1.labelPlural>rhinoceroses</Rhinoceros.lifeStages.1.labelPlural>
-  <Rhinoceros.lifeStages.1.labelMale>male rhinoceros</Rhinoceros.lifeStages.1.labelMale>
-  <Rhinoceros.lifeStages.1.labelMalePlural>male rhinoceross</Rhinoceros.lifeStages.1.labelMalePlural>
-  <Rhinoceros.lifeStages.1.labelFemale>female rhinoceros</Rhinoceros.lifeStages.1.labelFemale>
-  <Rhinoceros.lifeStages.1.labelFemalePlural>female rhinoceross</Rhinoceros.lifeStages.1.labelFemalePlural>
-  <Rhinoceros.lifeStages.2.label>rhinoceros</Rhinoceros.lifeStages.2.label>
-  <Rhinoceros.lifeStages.2.labelPlural>rhinoceroses</Rhinoceros.lifeStages.2.labelPlural>
-  <Rhinoceros.lifeStages.2.labelMale>male rhinoceros</Rhinoceros.lifeStages.2.labelMale>
-  <Rhinoceros.lifeStages.2.labelMalePlural>male rhinoceross</Rhinoceros.lifeStages.2.labelMalePlural>
-  <Rhinoceros.lifeStages.2.labelFemale>female rhinoceros</Rhinoceros.lifeStages.2.labelFemale>
-  <Rhinoceros.lifeStages.2.labelFemalePlural>female rhinoceross</Rhinoceros.lifeStages.2.labelFemalePlural>
-  <Rhinoceros.labelMale>male rhinoceros</Rhinoceros.labelMale>
-  <Rhinoceros.labelMalePlural>male rhinoceroses</Rhinoceros.labelMalePlural>
-  <Rhinoceros.labelFemale>female rhinoceros</Rhinoceros.labelFemale>
-  <Rhinoceros.labelFemalePlural>female rhinoceroses</Rhinoceros.labelFemalePlural>
+  <Rhinoceros.label>badak</Rhinoceros.label>
+  <Rhinoceros.labelPlural>para badak</Rhinoceros.labelPlural>
+  <Rhinoceros.lifeStages.0.label>anak badak</Rhinoceros.lifeStages.0.label>
+  <Rhinoceros.lifeStages.0.labelPlural>anak-anak badak</Rhinoceros.lifeStages.0.labelPlural>
+  <Rhinoceros.lifeStages.0.labelMale>anak badak jantan</Rhinoceros.lifeStages.0.labelMale>
+  <Rhinoceros.lifeStages.0.labelMalePlural>anak-anak badak jantan</Rhinoceros.lifeStages.0.labelMalePlural>
+  <Rhinoceros.lifeStages.0.labelFemale>anak badak betina</Rhinoceros.lifeStages.0.labelFemale>
+  <Rhinoceros.lifeStages.0.labelFemalePlural>anak-anak badak betina</Rhinoceros.lifeStages.0.labelFemalePlural>
+  <Rhinoceros.lifeStages.1.label>badak muda</Rhinoceros.lifeStages.1.label>
+  <Rhinoceros.lifeStages.1.labelPlural>badak-badak muda</Rhinoceros.lifeStages.1.labelPlural>
+  <Rhinoceros.lifeStages.1.labelMale>badak jantan muda</Rhinoceros.lifeStages.1.labelMale>
+  <Rhinoceros.lifeStages.1.labelMalePlural>badak-badak jantan muda</Rhinoceros.lifeStages.1.labelMalePlural>
+  <Rhinoceros.lifeStages.1.labelFemale>badak betina muda</Rhinoceros.lifeStages.1.labelFemale>
+  <Rhinoceros.lifeStages.1.labelFemalePlural>badak-badak betina muda</Rhinoceros.lifeStages.1.labelFemalePlural>
+  <Rhinoceros.lifeStages.2.label>badak dewasa</Rhinoceros.lifeStages.2.label>
+  <Rhinoceros.lifeStages.2.labelPlural>badak-badak dewasa</Rhinoceros.lifeStages.2.labelPlural>
+  <Rhinoceros.lifeStages.2.labelMale>badak jantan dewasa</Rhinoceros.lifeStages.2.labelMale>
+  <Rhinoceros.lifeStages.2.labelMalePlural>badak-badak jantan dewasa</Rhinoceros.lifeStages.2.labelMalePlural>
+  <Rhinoceros.lifeStages.2.labelFemale>badak betina dewasa</Rhinoceros.lifeStages.2.labelFemale>
+  <Rhinoceros.lifeStages.2.labelFemalePlural>badak-badak betina dewasa</Rhinoceros.lifeStages.2.labelFemalePlural>
+  <Rhinoceros.labelMale>badak jantan</Rhinoceros.labelMale>
+  <Rhinoceros.labelMalePlural>badak-badak jantan</Rhinoceros.labelMalePlural>
+  <Rhinoceros.labelFemale>badak betina</Rhinoceros.labelFemale>
+  <Rhinoceros.labelFemalePlural>badak-badak betina</Rhinoceros.labelFemalePlural>
 
-  <Elephant.label>elephant</Elephant.label>
-  <Elephant.labelPlural>elephants</Elephant.labelPlural>
-  <Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>
-  <Elephant.lifeStages.0.labelPlural>elephant calfs</Elephant.lifeStages.0.labelPlural>
-  <Elephant.lifeStages.0.labelMale>male elephant calf</Elephant.lifeStages.0.labelMale>
-  <Elephant.lifeStages.0.labelMalePlural>male elephant calfs</Elephant.lifeStages.0.labelMalePlural>
-  <Elephant.lifeStages.0.labelFemale>female elephant calf</Elephant.lifeStages.0.labelFemale>
-  <Elephant.lifeStages.0.labelFemalePlural>female elephant calfs</Elephant.lifeStages.0.labelFemalePlural>
-  <Elephant.lifeStages.1.label>elephant</Elephant.lifeStages.1.label>
-  <Elephant.lifeStages.1.labelPlural>elephant</Elephant.lifeStages.1.labelPlural>
-  <Elephant.lifeStages.1.labelMale>male elephant</Elephant.lifeStages.1.labelMale>
-  <Elephant.lifeStages.1.labelMalePlural>male elephants</Elephant.lifeStages.1.labelMalePlural>
-  <Elephant.lifeStages.1.labelFemale>female elephant</Elephant.lifeStages.1.labelFemale>
-  <Elephant.lifeStages.1.labelFemalePlural>female elephants</Elephant.lifeStages.1.labelFemalePlural>
-  <Elephant.lifeStages.2.label>elephant</Elephant.lifeStages.2.label>
-  <Elephant.lifeStages.2.labelPlural>elephant</Elephant.lifeStages.2.labelPlural>
-  <Elephant.lifeStages.2.labelMale>male elephant</Elephant.lifeStages.2.labelMale>
-  <Elephant.lifeStages.2.labelMalePlural>male elephants</Elephant.lifeStages.2.labelMalePlural>
-  <Elephant.lifeStages.2.labelFemale>female elephant</Elephant.lifeStages.2.labelFemale>
-  <Elephant.lifeStages.2.labelFemalePlural>female elephants</Elephant.lifeStages.2.labelFemalePlural>
-  <Elephant.labelMale>male elephant</Elephant.labelMale>
-  <Elephant.labelMalePlural>male elephants</Elephant.labelMalePlural>
-  <Elephant.labelFemale>female elephant</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>female elephants</Elephant.labelFemalePlural>
+  <Elephant.label>gajah</Elephant.label>
+  <Elephant.labelPlural>para gajah</Elephant.labelPlural>
+  <Elephant.lifeStages.0.label>anak gajah</Elephant.lifeStages.0.label>
+  <Elephant.lifeStages.0.labelPlural>anak-anak gajah</Elephant.lifeStages.0.labelPlural>
+  <Elephant.lifeStages.0.labelMale>anak gajah jantan</Elephant.lifeStages.0.labelMale>
+  <Elephant.lifeStages.0.labelMalePlural>anak-anak gajah jantan</Elephant.lifeStages.0.labelMalePlural>
+  <Elephant.lifeStages.0.labelFemale>anak gajah betina</Elephant.lifeStages.0.labelFemale>
+  <Elephant.lifeStages.0.labelFemalePlural>anak-anak gajah betina</Elephant.lifeStages.0.labelFemalePlural>
+  <Elephant.lifeStages.1.label>gajah muda</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.1.labelPlural>gajah-gajah muda</Elephant.lifeStages.1.labelPlural>
+  <Elephant.lifeStages.1.labelMale>gajah jantan muda</Elephant.lifeStages.1.labelMale>
+  <Elephant.lifeStages.1.labelMalePlural>gajah-gajah jantan muda</Elephant.lifeStages.1.labelMalePlural>
+  <Elephant.lifeStages.1.labelFemale>gajah betina muda</Elephant.lifeStages.1.labelFemale>
+  <Elephant.lifeStages.1.labelFemalePlural>gajah-gajah betina muda</Elephant.lifeStages.1.labelFemalePlural>
+  <Elephant.lifeStages.2.label>gajah dewasa</Elephant.lifeStages.2.label>
+  <Elephant.lifeStages.2.labelPlural>gajah-gajah dewasa</Elephant.lifeStages.2.labelPlural>
+  <Elephant.lifeStages.2.labelMale>gajah jantan dewasa</Elephant.lifeStages.2.labelMale>
+  <Elephant.lifeStages.2.labelMalePlural>gajah-gajah jantan dewasa</Elephant.lifeStages.2.labelMalePlural>
+  <Elephant.lifeStages.2.labelFemale>gajah betina dewasa</Elephant.lifeStages.2.labelFemale>
+  <Elephant.lifeStages.2.labelFemalePlural>gajah-gajah betina dewasa</Elephant.lifeStages.2.labelFemalePlural>
+  <Elephant.labelMale>gajah jantan</Elephant.labelMale>
+  <Elephant.labelMalePlural>gajah-gajah jantan</Elephant.labelMalePlural>
+  <Elephant.labelFemale>gajah betina</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>gajah-gajah betina</Elephant.labelFemalePlural>
 
   <Megasloth.label>megasloth</Megasloth.label>
-  <Megasloth.labelPlural>megasloths</Megasloth.labelPlural>
-  <Megasloth.lifeStages.0.label>megasloth</Megasloth.lifeStages.0.label>
-  <Megasloth.lifeStages.0.labelPlural>megasloth</Megasloth.lifeStages.0.labelPlural>
-  <Megasloth.lifeStages.0.labelMale>male megasloth</Megasloth.lifeStages.0.labelMale>
-  <Megasloth.lifeStages.0.labelMalePlural>male megasloths</Megasloth.lifeStages.0.labelMalePlural>
-  <Megasloth.lifeStages.0.labelFemale>female megasloth</Megasloth.lifeStages.0.labelFemale>
-  <Megasloth.lifeStages.0.labelFemalePlural>female megasloths</Megasloth.lifeStages.0.labelFemalePlural>
-  <Megasloth.lifeStages.1.label>megasloth</Megasloth.lifeStages.1.label>
-  <Megasloth.lifeStages.1.labelPlural>megasloth</Megasloth.lifeStages.1.labelPlural>
-  <Megasloth.lifeStages.1.labelMale>male megasloth</Megasloth.lifeStages.1.labelMale>
-  <Megasloth.lifeStages.1.labelMalePlural>male megasloths</Megasloth.lifeStages.1.labelMalePlural>
-  <Megasloth.lifeStages.1.labelFemale>female megasloth</Megasloth.lifeStages.1.labelFemale>
-  <Megasloth.lifeStages.1.labelFemalePlural>female megasloths</Megasloth.lifeStages.1.labelFemalePlural>
-  <Megasloth.lifeStages.2.label>megasloth</Megasloth.lifeStages.2.label>
-  <Megasloth.lifeStages.2.labelPlural>megasloth</Megasloth.lifeStages.2.labelPlural>
-  <Megasloth.lifeStages.2.labelMale>male megasloth</Megasloth.lifeStages.2.labelMale>
-  <Megasloth.lifeStages.2.labelMalePlural>male megasloths</Megasloth.lifeStages.2.labelMalePlural>
-  <Megasloth.lifeStages.2.labelFemale>female megasloth</Megasloth.lifeStages.2.labelFemale>
-  <Megasloth.lifeStages.2.labelFemalePlural>female megasloths</Megasloth.lifeStages.2.labelFemalePlural>
-  <Megasloth.labelMale>male megasloth</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>male megasloths</Megasloth.labelMalePlural>
-  <Megasloth.labelFemale>female megasloth</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>female megasloths</Megasloth.labelFemalePlural>
+  <Megasloth.labelPlural>para megasloth</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>anak megasloth</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.0.labelPlural>anak-anak megasloth</Megasloth.lifeStages.0.labelPlural>
+  <Megasloth.lifeStages.0.labelMale>anak megasloth jantan</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelMalePlural>anak-anak megasloth jantan</Megasloth.lifeStages.0.labelMalePlural>
+  <Megasloth.lifeStages.0.labelFemale>anak megasloth betina</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.0.labelFemalePlural>anak-anak megasloth betina</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.1.label>megasloth muda</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.1.labelPlural>megasloth-megasloth muda</Megasloth.lifeStages.1.labelPlural>
+  <Megasloth.lifeStages.1.labelMale>megasloth jantan muda</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelMalePlural>megasloth-megasloth jantan muda</Megasloth.lifeStages.1.labelMalePlural>
+  <Megasloth.lifeStages.1.labelFemale>megasloth betina muda</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.1.labelFemalePlural>megasloth-megasloth betina muda</Megasloth.lifeStages.1.labelFemalePlural>
+  <Megasloth.lifeStages.2.label>megasloth dewasa</Megasloth.lifeStages.2.label>
+  <Megasloth.lifeStages.2.labelPlural>megasloth-megasloth dewasa</Megasloth.lifeStages.2.labelPlural>
+  <Megasloth.lifeStages.2.labelMale>megasloth jantan dewasa</Megasloth.lifeStages.2.labelMale>
+  <Megasloth.lifeStages.2.labelMalePlural>megasloth-megasloth jantan dewasa</Megasloth.lifeStages.2.labelMalePlural>
+  <Megasloth.lifeStages.2.labelFemale>megasloth betina dewasa</Megasloth.lifeStages.2.labelFemale>
+  <Megasloth.lifeStages.2.labelFemalePlural>megasloth-megasloth betina dewasa</Megasloth.lifeStages.2.labelFemalePlural>
+  <Megasloth.labelMale>megasloth jantan</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>megasloth-megasloth jantan</Megasloth.labelMalePlural>
+  <Megasloth.labelFemale>megasloth betina</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>megasloth-megasloth betina</Megasloth.labelFemalePlural>
 
   <Thrumbo.label>thrumbo</Thrumbo.label>
-  <Thrumbo.labelPlural>thrumbos</Thrumbo.labelPlural>
-  <Thrumbo.lifeStages.0.label>thrumbo calf</Thrumbo.lifeStages.0.label>
-  <Thrumbo.lifeStages.0.labelPlural>thrumbo calves</Thrumbo.lifeStages.0.labelPlural>
-  <Thrumbo.lifeStages.0.labelMale>male thrumbo calf</Thrumbo.lifeStages.0.labelMale>
-  <Thrumbo.lifeStages.0.labelMalePlural>male thrumbo calves</Thrumbo.lifeStages.0.labelMalePlural>
-  <Thrumbo.lifeStages.0.labelFemale>female thrumbo calf</Thrumbo.lifeStages.0.labelFemale>
-  <Thrumbo.lifeStages.0.labelFemalePlural>female thrumbo calves</Thrumbo.lifeStages.0.labelFemalePlural>
-  <Thrumbo.lifeStages.1.label>thrumbo</Thrumbo.lifeStages.1.label>
-  <Thrumbo.lifeStages.1.labelPlural>thrumbo</Thrumbo.lifeStages.1.labelPlural>
-  <Thrumbo.lifeStages.1.labelMale>male thrumbo</Thrumbo.lifeStages.1.labelMale>
-  <Thrumbo.lifeStages.1.labelMalePlural>male thrumbos</Thrumbo.lifeStages.1.labelMalePlural>
-  <Thrumbo.lifeStages.1.labelFemale>female thrumbo</Thrumbo.lifeStages.1.labelFemale>
-  <Thrumbo.lifeStages.1.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.1.labelFemalePlural>
-  <Thrumbo.lifeStages.2.label>thrumbo</Thrumbo.lifeStages.2.label>
-  <Thrumbo.lifeStages.2.labelPlural>thrumbo</Thrumbo.lifeStages.2.labelPlural>
-  <Thrumbo.lifeStages.2.labelMale>male thrumbo</Thrumbo.lifeStages.2.labelMale>
-  <Thrumbo.lifeStages.2.labelMalePlural>male thrumbos</Thrumbo.lifeStages.2.labelMalePlural>
-  <Thrumbo.lifeStages.2.labelFemale>female thrumbo</Thrumbo.lifeStages.2.labelFemale>
-  <Thrumbo.lifeStages.2.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.2.labelFemalePlural>
-  <Thrumbo.labelMale>male thrumbo</Thrumbo.labelMale>
-  <Thrumbo.labelMalePlural>male thrumbos</Thrumbo.labelMalePlural>
-  <Thrumbo.labelFemale>female thrumbo</Thrumbo.labelFemale>
-  <Thrumbo.labelFemalePlural>female thrumbos</Thrumbo.labelFemalePlural>
-
+  <Thrumbo.labelPlural>para thrumbo</Thrumbo.labelPlural>
+  <Thrumbo.lifeStages.0.label>anak thrumbo</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.0.labelPlural>anak-anak thrumbo</Thrumbo.lifeStages.0.labelPlural>
+  <Thrumbo.lifeStages.0.labelMale>anak thrumbo jantan</Thrumbo.lifeStages.0.labelMale>
+  <Thrumbo.lifeStages.0.labelMalePlural>anak-anak thrumbo jantan</Thrumbo.lifeStages.0.labelMalePlural>
+  <Thrumbo.lifeStages.0.labelFemale>anak thrumbo betina</Thrumbo.lifeStages.0.labelFemale>
+  <Thrumbo.lifeStages.0.labelFemalePlural>anak-anak thrumbo betina</Thrumbo.lifeStages.0.labelFemalePlural>
+  <Thrumbo.lifeStages.1.label>thrumbo muda</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.1.labelPlural>thrumbo-thrumbo muda</Thrumbo.lifeStages.1.labelPlural>
+  <Thrumbo.lifeStages.1.labelMale>thrumbo jantan muda</Thrumbo.lifeStages.1.labelMale>
+  <Thrumbo.lifeStages.1.labelMalePlural>thrumbo-thrumbo jantan muda</Thrumbo.lifeStages.1.labelMalePlural>
+  <Thrumbo.lifeStages.1.labelFemale>thrumbo betina muda</Thrumbo.lifeStages.1.labelFemale>
+  <Thrumbo.lifeStages.1.labelFemalePlural>thrumbo-thrumbo betina muda</Thrumbo.lifeStages.1.labelFemalePlural>
+  <Thrumbo.lifeStages.2.label>thrumbo dewasa</Thrumbo.lifeStages.2.label>
+  <Thrumbo.lifeStages.2.labelPlural>thrumbo-thrumbo dewasa</Thrumbo.lifeStages.2.labelPlural>
+  <Thrumbo.lifeStages.2.labelMale>thrumbo jantan dewasa</Thrumbo.lifeStages.2.labelMale>
+  <Thrumbo.lifeStages.2.labelMalePlural>thrumbo-thrumbo jantan dewasa</Thrumbo.lifeStages.2.labelMalePlural>
+  <Thrumbo.lifeStages.2.labelFemale>thrumbo betina dewasa</Thrumbo.lifeStages.2.labelFemale>
+  <Thrumbo.lifeStages.2.labelFemalePlural>thrumbo-thrumbo betina dewasa</Thrumbo.lifeStages.2.labelFemalePlural>
+  <Thrumbo.labelMale>thrumbo jantan</Thrumbo.labelMale>
+  <Thrumbo.labelMalePlural>thrumbo-thrumbo jantan</Thrumbo.labelMalePlural>
+  <Thrumbo.labelFemale>thrumbo betina</Thrumbo.labelFemale>
+  <Thrumbo.labelFemalePlural>thrumbo-thrumbo betina</Thrumbo.labelFemalePlural>
 
 </LanguageData>

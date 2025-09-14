@@ -2,13 +2,13 @@
 <LanguageData>
 
   <Master.label>master</Master.label>
-  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
-  <AllowedArea.label>allowed area</AllowedArea.label>
-  <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
-  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
-  <Outfit.label>current outfit</Outfit.label>
-  <DrugPolicy.label>drug policy</DrugPolicy.label>
-  <FoodRestriction.label>food restriction</FoodRestriction.label>
+  <MedicalCare.headerTip>Perawatan medis</MedicalCare.headerTip>
+  <AllowedArea.label>area yang diizinkan</AllowedArea.label>
+  <AllowedAreaWide.label>area yang diizinkan</AllowedAreaWide.label>
+  <HostilityResponse.headerTip>Tanggapan terhadap permusuhan</HostilityResponse.headerTip>
+  <Outfit.label>pakaian saat ini</Outfit.label>
+  <DrugPolicy.label>kebijakan obat-obatan</DrugPolicy.label>
+  <FoodRestriction.label>pembatasan makanan</FoodRestriction.label>
 
 
 </LanguageData>

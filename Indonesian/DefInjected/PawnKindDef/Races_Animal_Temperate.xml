@@ -1,155 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Deer.label>deer</Deer.label>
-  <Deer.labelPlural>deer</Deer.labelPlural>
-  <Deer.lifeStages.0.label>deer</Deer.lifeStages.0.label>
-  <Deer.lifeStages.0.labelPlural>deer</Deer.lifeStages.0.labelPlural>
-  <Deer.lifeStages.0.labelMale>buck</Deer.lifeStages.0.labelMale>
-  <Deer.lifeStages.0.labelMalePlural>male deers</Deer.lifeStages.0.labelMalePlural>
-  <Deer.lifeStages.0.labelFemale>doe</Deer.lifeStages.0.labelFemale>
-  <Deer.lifeStages.0.labelFemalePlural>female deers</Deer.lifeStages.0.labelFemalePlural>
-  <Deer.lifeStages.1.label>deer</Deer.lifeStages.1.label>
-  <Deer.lifeStages.1.labelPlural>deer</Deer.lifeStages.1.labelPlural>
-  <Deer.lifeStages.1.labelMale>buck</Deer.lifeStages.1.labelMale>
-  <Deer.lifeStages.1.labelMalePlural>male deers</Deer.lifeStages.1.labelMalePlural>
-  <Deer.lifeStages.1.labelFemale>doe</Deer.lifeStages.1.labelFemale>
-  <Deer.lifeStages.1.labelFemalePlural>female deers</Deer.lifeStages.1.labelFemalePlural>
-  <Deer.lifeStages.2.label>deer</Deer.lifeStages.2.label>
-  <Deer.lifeStages.2.labelPlural>deer</Deer.lifeStages.2.labelPlural>
-  <Deer.lifeStages.2.labelMale>buck</Deer.lifeStages.2.labelMale>
-  <Deer.lifeStages.2.labelMalePlural>male deers</Deer.lifeStages.2.labelMalePlural>
-  <Deer.lifeStages.2.labelFemale>doe</Deer.lifeStages.2.labelFemale>
-  <Deer.lifeStages.2.labelFemalePlural>female deers</Deer.lifeStages.2.labelFemalePlural>
-  <Deer.labelMale>buck</Deer.labelMale>
-  <Deer.labelMalePlural>male deer</Deer.labelMalePlural>
-  <Deer.labelFemale>doe</Deer.labelFemale>
-  <Deer.labelFemalePlural>female deer</Deer.labelFemalePlural>
+  <Deer.label>rusa</Deer.label>
+  <Deer.labelPlural>rusa</Deer.labelPlural>
+  <Deer.lifeStages.0.label>rusa</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.labelPlural>rusa</Deer.lifeStages.0.labelPlural>
+  <Deer.lifeStages.0.labelMale>rusa jantan</Deer.lifeStages.0.labelMale>
+  <Deer.lifeStages.0.labelMalePlural>rusa jantan</Deer.lifeStages.0.labelMalePlural>
+  <Deer.lifeStages.0.labelFemale>rusa betina</Deer.lifeStages.0.labelFemale>
+  <Deer.lifeStages.0.labelFemalePlural>rusa betina</Deer.lifeStages.0.labelFemalePlural>
+  <Deer.lifeStages.1.label>rusa</Deer.lifeStages.1.label>
+  <Deer.lifeStages.1.labelPlural>rusa</Deer.lifeStages.1.labelPlural>
+  <Deer.lifeStages.1.labelMale>rusa jantan</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelMalePlural>rusa jantan</Deer.lifeStages.1.labelMalePlural>
+  <Deer.lifeStages.1.labelFemale>rusa betina</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.1.labelFemalePlural>rusa betina</Deer.lifeStages.1.labelFemalePlural>
+  <Deer.lifeStages.2.label>rusa</Deer.lifeStages.2.label>
+  <Deer.lifeStages.2.labelPlural>rusa</Deer.lifeStages.2.labelPlural>
+  <Deer.lifeStages.2.labelMale>rusa jantan</Deer.lifeStages.2.labelMale>
+  <Deer.lifeStages.2.labelMalePlural>rusa jantan</Deer.lifeStages.2.labelMalePlural>
+  <Deer.lifeStages.2.labelFemale>rusa betina</Deer.lifeStages.2.labelFemale>
+  <Deer.lifeStages.2.labelFemalePlural>rusa betina</Deer.lifeStages.2.labelFemalePlural>
+  <Deer.labelMale>rusa jantan</Deer.labelMale>
+  <Deer.labelMalePlural>rusa jantan</Deer.labelMalePlural>
+  <Deer.labelFemale>rusa betina</Deer.labelFemale>
+  <Deer.labelFemalePlural>rusa betina</Deer.labelFemalePlural>
 
   <Ibex.label>ibex</Ibex.label>
   <Ibex.labelPlural>ibex</Ibex.labelPlural>
   <Ibex.lifeStages.0.label>ibex</Ibex.lifeStages.0.label>
   <Ibex.lifeStages.0.labelPlural>ibex</Ibex.lifeStages.0.labelPlural>
-  <Ibex.lifeStages.0.labelMale>ibex ram</Ibex.lifeStages.0.labelMale>
-  <Ibex.lifeStages.0.labelMalePlural>male ibexs</Ibex.lifeStages.0.labelMalePlural>
-  <Ibex.lifeStages.0.labelFemale>ibex doe</Ibex.lifeStages.0.labelFemale>
-  <Ibex.lifeStages.0.labelFemalePlural>female ibexs</Ibex.lifeStages.0.labelFemalePlural>
+  <Ibex.lifeStages.0.labelMale>ibex jantan</Ibex.lifeStages.0.labelMale>
+  <Ibex.lifeStages.0.labelMalePlural>ibex jantan</Ibex.lifeStages.0.labelMalePlural>
+  <Ibex.lifeStages.0.labelFemale>ibex betina</Ibex.lifeStages.0.labelFemale>
+  <Ibex.lifeStages.0.labelFemalePlural>ibex betina</Ibex.lifeStages.0.labelFemalePlural>
   <Ibex.lifeStages.1.label>ibex</Ibex.lifeStages.1.label>
   <Ibex.lifeStages.1.labelPlural>ibex</Ibex.lifeStages.1.labelPlural>
-  <Ibex.lifeStages.1.labelMale>ibex ram</Ibex.lifeStages.1.labelMale>
-  <Ibex.lifeStages.1.labelMalePlural>male ibexs</Ibex.lifeStages.1.labelMalePlural>
-  <Ibex.lifeStages.1.labelFemale>ibex doe</Ibex.lifeStages.1.labelFemale>
-  <Ibex.lifeStages.1.labelFemalePlural>female ibexs</Ibex.lifeStages.1.labelFemalePlural>
+  <Ibex.lifeStages.1.labelMale>ibex jantan</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelMalePlural>ibex jantan</Ibex.lifeStages.1.labelMalePlural>
+  <Ibex.lifeStages.1.labelFemale>ibex betina</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.1.labelFemalePlural>ibex betina</Ibex.lifeStages.1.labelFemalePlural>
   <Ibex.lifeStages.2.label>ibex</Ibex.lifeStages.2.label>
   <Ibex.lifeStages.2.labelPlural>ibex</Ibex.lifeStages.2.labelPlural>
-  <Ibex.lifeStages.2.labelMale>ibex ram</Ibex.lifeStages.2.labelMale>
-  <Ibex.lifeStages.2.labelMalePlural>male ibexs</Ibex.lifeStages.2.labelMalePlural>
-  <Ibex.lifeStages.2.labelFemale>ibex doe</Ibex.lifeStages.2.labelFemale>
-  <Ibex.lifeStages.2.labelFemalePlural>female ibexs</Ibex.lifeStages.2.labelFemalePlural>
-  <Ibex.labelMale>ibex ram</Ibex.labelMale>
-  <Ibex.labelMalePlural>male ibex</Ibex.labelMalePlural>
-  <Ibex.labelFemale>ibex doe</Ibex.labelFemale>
-  <Ibex.labelFemalePlural>female ibex</Ibex.labelFemalePlural>
+  <Ibex.lifeStages.2.labelMale>ibex jantan</Ibex.lifeStages.2.labelMale>
+  <Ibex.lifeStages.2.labelMalePlural>ibex jantan</Ibex.lifeStages.2.labelMalePlural>
+  <Ibex.lifeStages.2.labelFemale>ibex betina</Ibex.lifeStages.2.labelFemale>
+  <Ibex.lifeStages.2.labelFemalePlural>ibex betina</Ibex.lifeStages.2.labelFemalePlural>
+  <Ibex.labelMale>ibex jantan</Ibex.labelMale>
+  <Ibex.labelMalePlural>ibex jantan</Ibex.labelMalePlural>
+  <Ibex.labelFemale>ibex betina</Ibex.labelFemale>
+  <Ibex.labelFemalePlural>ibex betina</Ibex.labelFemalePlural>
 
-  <Elk.label>elk</Elk.label>
-  <Elk.labelPlural>elk</Elk.labelPlural>
-  <Elk.lifeStages.0.label>elk calf</Elk.lifeStages.0.label>
-  <Elk.lifeStages.0.labelPlural>elk calves</Elk.lifeStages.0.labelPlural>
-  <Elk.lifeStages.0.labelMale>male elk calf</Elk.lifeStages.0.labelMale>
-  <Elk.lifeStages.0.labelMalePlural>male elk calves</Elk.lifeStages.0.labelMalePlural>
-  <Elk.lifeStages.0.labelFemale>female elk calf</Elk.lifeStages.0.labelFemale>
-  <Elk.lifeStages.0.labelFemalePlural>female elk calves</Elk.lifeStages.0.labelFemalePlural>
-  <Elk.lifeStages.1.label>elk</Elk.lifeStages.1.label>
-  <Elk.lifeStages.1.labelPlural>elk</Elk.lifeStages.1.labelPlural>
-  <Elk.lifeStages.1.labelMale>male elk</Elk.lifeStages.1.labelMale>
-  <Elk.lifeStages.1.labelMalePlural>male elks</Elk.lifeStages.1.labelMalePlural>
-  <Elk.lifeStages.1.labelFemale>female elk</Elk.lifeStages.1.labelFemale>
-  <Elk.lifeStages.1.labelFemalePlural>female elks</Elk.lifeStages.1.labelFemalePlural>
-  <Elk.lifeStages.2.label>elk</Elk.lifeStages.2.label>
-  <Elk.lifeStages.2.labelPlural>elk</Elk.lifeStages.2.labelPlural>
-  <Elk.lifeStages.2.labelMale>male elk</Elk.lifeStages.2.labelMale>
-  <Elk.lifeStages.2.labelMalePlural>male elks</Elk.lifeStages.2.labelMalePlural>
-  <Elk.lifeStages.2.labelFemale>female elk</Elk.lifeStages.2.labelFemale>
-  <Elk.lifeStages.2.labelFemalePlural>female elks</Elk.lifeStages.2.labelFemalePlural>
-  <Elk.labelMale>male elk</Elk.labelMale>
-  <Elk.labelMalePlural>male elk</Elk.labelMalePlural>
-  <Elk.labelFemale>female elk</Elk.labelFemale>
-  <Elk.labelFemalePlural>female elk</Elk.labelFemalePlural>
+  <Elk.label>rusa besar</Elk.label>
+  <Elk.labelPlural>rusa besar</Elk.labelPlural>
+  <Elk.lifeStages.0.label>anak rusa besar</Elk.lifeStages.0.label>
+  <Elk.lifeStages.0.labelPlural>anak rusa besar</Elk.lifeStages.0.labelPlural>
+  <Elk.lifeStages.0.labelMale>anak rusa besar jantan</Elk.lifeStages.0.labelMale>
+  <Elk.lifeStages.0.labelMalePlural>anak rusa besar jantan</Elk.lifeStages.0.labelMalePlural>
+  <Elk.lifeStages.0.labelFemale>anak rusa besar betina</Elk.lifeStages.0.labelFemale>
+  <Elk.lifeStages.0.labelFemalePlural>anak rusa besar betina</Elk.lifeStages.0.labelFemalePlural>
+  <Elk.lifeStages.1.label>rusa besar</Elk.lifeStages.1.label>
+  <Elk.lifeStages.1.labelPlural>rusa besar</Elk.lifeStages.1.labelPlural>
+  <Elk.lifeStages.1.labelMale>rusa besar jantan</Elk.lifeStages.1.labelMale>
+  <Elk.lifeStages.1.labelMalePlural>rusa besar jantan</Elk.lifeStages.1.labelMalePlural>
+  <Elk.lifeStages.1.labelFemale>rusa besar betina</Elk.lifeStages.1.labelFemale>
+  <Elk.lifeStages.1.labelFemalePlural>rusa besar betina</Elk.lifeStages.1.labelFemalePlural>
+  <Elk.lifeStages.2.label>rusa besar</Elk.lifeStages.2.label>
+  <Elk.lifeStages.2.labelPlural>rusa besar</Elk.lifeStages.2.labelPlural>
+  <Elk.lifeStages.2.labelMale>rusa besar jantan</Elk.lifeStages.2.labelMale>
+  <Elk.lifeStages.2.labelMalePlural>rusa besar jantan</Elk.lifeStages.2.labelMalePlural>
+  <Elk.lifeStages.2.labelFemale>rusa besar betina</Elk.lifeStages.2.labelFemale>
+  <Elk.lifeStages.2.labelFemalePlural>rusa besar betina</Elk.lifeStages.2.labelFemalePlural>
+  <Elk.labelMale>rusa besar jantan</Elk.labelMale>
+  <Elk.labelMalePlural>rusa besar jantan</Elk.labelMalePlural>
+  <Elk.labelFemale>rusa besar betina</Elk.labelFemale>
+  <Elk.labelFemalePlural>rusa besar betina</Elk.labelFemalePlural>
 
-  <Caribou.label>caribou</Caribou.label>
-  <Caribou.labelPlural>caribou</Caribou.labelPlural>
-  <Caribou.lifeStages.0.label>caribou calf</Caribou.lifeStages.0.label>
-  <Caribou.lifeStages.0.labelPlural>caribou calves</Caribou.lifeStages.0.labelPlural>
-  <Caribou.lifeStages.0.labelMale>male caribou calf</Caribou.lifeStages.0.labelMale>
-  <Caribou.lifeStages.0.labelMalePlural>male caribou calves</Caribou.lifeStages.0.labelMalePlural>
-  <Caribou.lifeStages.0.labelFemale>female caribou calf</Caribou.lifeStages.0.labelFemale>
-  <Caribou.lifeStages.0.labelFemalePlural>female caribou calves</Caribou.lifeStages.0.labelFemalePlural>
-  <Caribou.lifeStages.1.label>caribou</Caribou.lifeStages.1.label>
-  <Caribou.lifeStages.1.labelPlural>caribou</Caribou.lifeStages.1.labelPlural>
-  <Caribou.lifeStages.1.labelMale>male caribou</Caribou.lifeStages.1.labelMale>
-  <Caribou.lifeStages.1.labelMalePlural>male caribous</Caribou.lifeStages.1.labelMalePlural>
-  <Caribou.lifeStages.1.labelFemale>female caribou</Caribou.lifeStages.1.labelFemale>
-  <Caribou.lifeStages.1.labelFemalePlural>female caribous</Caribou.lifeStages.1.labelFemalePlural>
-  <Caribou.lifeStages.2.label>caribou</Caribou.lifeStages.2.label>
-  <Caribou.lifeStages.2.labelPlural>caribou</Caribou.lifeStages.2.labelPlural>
-  <Caribou.lifeStages.2.labelMale>male caribou</Caribou.lifeStages.2.labelMale>
-  <Caribou.lifeStages.2.labelMalePlural>male caribous</Caribou.lifeStages.2.labelMalePlural>
-  <Caribou.lifeStages.2.labelFemale>female caribou</Caribou.lifeStages.2.labelFemale>
-  <Caribou.lifeStages.2.labelFemalePlural>female caribous</Caribou.lifeStages.2.labelFemalePlural>
-  <Caribou.labelMale>male caribou</Caribou.labelMale>
-  <Caribou.labelMalePlural>male caribou</Caribou.labelMalePlural>
-  <Caribou.labelFemale>female caribou</Caribou.labelFemale>
-  <Caribou.labelFemalePlural>female caribou</Caribou.labelFemalePlural>
+  <Caribou.label>rusa kutub</Caribou.label>
+  <Caribou.labelPlural>rusa kutub</Caribou.labelPlural>
+  <Caribou.lifeStages.0.label>anak rusa kutub</Caribou.lifeStages.0.label>
+  <Caribou.lifeStages.0.labelPlural>anak rusa kutub</Caribou.lifeStages.0.labelPlural>
+  <Caribou.lifeStages.0.labelMale>anak rusa kutub jantan</Caribou.lifeStages.0.labelMale>
+  <Caribou.lifeStages.0.labelMalePlural>anak rusa kutub jantan</Caribou.lifeStages.0.labelMalePlural>
+  <Caribou.lifeStages.0.labelFemale>anak rusa kutub betina</Caribou.lifeStages.0.labelFemale>
+  <Caribou.lifeStages.0.labelFemalePlural>anak rusa kutub betina</Caribou.lifeStages.0.labelFemalePlural>
+  <Caribou.lifeStages.1.label>rusa kutub</Caribou.lifeStages.1.label>
+  <Caribou.lifeStages.1.labelPlural>rusa kutub</Caribou.lifeStages.1.labelPlural>
+  <Caribou.lifeStages.1.labelMale>rusa kutub jantan</Caribou.lifeStages.1.labelMale>
+  <Caribou.lifeStages.1.labelMalePlural>rusa kutub jantan</Caribou.lifeStages.1.labelMalePlural>
+  <Caribou.lifeStages.1.labelFemale>rusa kutub betina</Caribou.lifeStages.1.labelFemale>
+  <Caribou.lifeStages.1.labelFemalePlural>rusa kutub betina</Caribou.lifeStages.1.labelFemalePlural>
+  <Caribou.lifeStages.2.label>rusa kutub</Caribou.lifeStages.2.label>
+  <Caribou.lifeStages.2.labelPlural>rusa kutub</Caribou.lifeStages.2.labelPlural>
+  <Caribou.lifeStages.2.labelMale>rusa kutub jantan</Caribou.lifeStages.2.labelMale>
+  <Caribou.lifeStages.2.labelMalePlural>rusa kutub jantan</Caribou.lifeStages.2.labelMalePlural>
+  <Caribou.lifeStages.2.labelFemale>rusa kutub betina</Caribou.lifeStages.2.labelFemale>
+  <Caribou.lifeStages.2.labelFemalePlural>rusa kutub betina</Caribou.lifeStages.2.labelFemalePlural>
+  <Caribou.labelMale>rusa kutub jantan</Caribou.labelMale>
+  <Caribou.labelMalePlural>rusa kutub jantan</Caribou.labelMalePlural>
+  <Caribou.labelFemale>rusa kutub betina</Caribou.labelFemale>
+  <Caribou.labelFemalePlural>rusa kutub betina</Caribou.labelFemalePlural>
 
-  <WildBoar.label>wild boar</WildBoar.label>
-  <WildBoar.labelPlural>wild boars</WildBoar.labelPlural>
-  <WildBoar.lifeStages.0.label>wild boar</WildBoar.lifeStages.0.label>
-  <WildBoar.lifeStages.0.labelPlural>wild boar</WildBoar.lifeStages.0.labelPlural>
-  <WildBoar.lifeStages.0.labelMale>male wild boar</WildBoar.lifeStages.0.labelMale>
-  <WildBoar.lifeStages.0.labelMalePlural>male wild boars</WildBoar.lifeStages.0.labelMalePlural>
-  <WildBoar.lifeStages.0.labelFemale>female wild boar</WildBoar.lifeStages.0.labelFemale>
-  <WildBoar.lifeStages.0.labelFemalePlural>female wild boars</WildBoar.lifeStages.0.labelFemalePlural>
-  <WildBoar.lifeStages.1.label>wild boar</WildBoar.lifeStages.1.label>
-  <WildBoar.lifeStages.1.labelPlural>wild boar</WildBoar.lifeStages.1.labelPlural>
-  <WildBoar.lifeStages.1.labelMale>male wild boar</WildBoar.lifeStages.1.labelMale>
-  <WildBoar.lifeStages.1.labelMalePlural>male wild boars</WildBoar.lifeStages.1.labelMalePlural>
-  <WildBoar.lifeStages.1.labelFemale>female wild boar</WildBoar.lifeStages.1.labelFemale>
-  <WildBoar.lifeStages.1.labelFemalePlural>female wild boars</WildBoar.lifeStages.1.labelFemalePlural>
-  <WildBoar.lifeStages.2.label>wild boar</WildBoar.lifeStages.2.label>
-  <WildBoar.lifeStages.2.labelPlural>wild boar</WildBoar.lifeStages.2.labelPlural>
-  <WildBoar.lifeStages.2.labelMale>male wild boar</WildBoar.lifeStages.2.labelMale>
-  <WildBoar.lifeStages.2.labelMalePlural>male wild boars</WildBoar.lifeStages.2.labelMalePlural>
-  <WildBoar.lifeStages.2.labelFemale>female wild boar</WildBoar.lifeStages.2.labelFemale>
-  <WildBoar.lifeStages.2.labelFemalePlural>female wild boars</WildBoar.lifeStages.2.labelFemalePlural>
-  <WildBoar.labelMale>male wild boar</WildBoar.labelMale>
-  <WildBoar.labelMalePlural>male wild boars</WildBoar.labelMalePlural>
-  <WildBoar.labelFemale>female wild boar</WildBoar.labelFemale>
-  <WildBoar.labelFemalePlural>female wild boars</WildBoar.labelFemalePlural>
+  <WildBoar.label>babi hutan</WildBoar.label>
+  <WildBoar.labelPlural>babi hutan</WildBoar.labelPlural>
+  <WildBoar.lifeStages.0.label>babi hutan</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.0.labelPlural>babi hutan</WildBoar.lifeStages.0.labelPlural>
+  <WildBoar.lifeStages.0.labelMale>babi hutan jantan</WildBoar.lifeStages.0.labelMale>
+  <WildBoar.lifeStages.0.labelMalePlural>babi hutan jantan</WildBoar.lifeStages.0.labelMalePlural>
+  <WildBoar.lifeStages.0.labelFemale>babi hutan betina</WildBoar.lifeStages.0.labelFemale>
+  <WildBoar.lifeStages.0.labelFemalePlural>babi hutan betina</WildBoar.lifeStages.0.labelFemalePlural>
+  <WildBoar.lifeStages.1.label>babi hutan</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.labelPlural>babi hutan</WildBoar.lifeStages.1.labelPlural>
+  <WildBoar.lifeStages.1.labelMale>babi hutan jantan</WildBoar.lifeStages.1.labelMale>
+  <WildBoar.lifeStages.1.labelMalePlural>babi hutan jantan</WildBoar.lifeStages.1.labelMalePlural>
+  <WildBoar.lifeStages.1.labelFemale>babi hutan betina</WildBoar.lifeStages.1.labelFemale>
+  <WildBoar.lifeStages.1.labelFemalePlural>babi hutan betina</WildBoar.lifeStages.1.labelFemalePlural>
+  <WildBoar.lifeStages.2.label>babi hutan</WildBoar.lifeStages.2.label>
+  <WildBoar.lifeStages.2.labelPlural>babi hutan</WildBoar.lifeStages.2.labelPlural>
+  <WildBoar.lifeStages.2.labelMale>babi hutan jantan</WildBoar.lifeStages.2.labelMale>
+  <WildBoar.lifeStages.2.labelMalePlural>babi hutan jantan</WildBoar.lifeStages.2.labelMalePlural>
+  <WildBoar.lifeStages.2.labelFemale>babi hutan betina</WildBoar.lifeStages.2.labelFemale>
+  <WildBoar.lifeStages.2.labelFemalePlural>babi hutan betina</WildBoar.lifeStages.2.labelFemalePlural>
+  <WildBoar.labelMale>babi hutan jantan</WildBoar.labelMale>
+  <WildBoar.labelMalePlural>babi hutan jantan</WildBoar.labelMalePlural>
+  <WildBoar.labelFemale>babi hutan betina</WildBoar.labelFemale>
+  <WildBoar.labelFemalePlural>babi hutan betina</WildBoar.labelFemalePlural>
 
-  <Tortoise.label>tortoise</Tortoise.label>
-  <Tortoise.labelPlural>tortoises</Tortoise.labelPlural>
-  <Tortoise.lifeStages.0.label>tortoise</Tortoise.lifeStages.0.label>
-  <Tortoise.lifeStages.0.labelPlural>tortoise</Tortoise.lifeStages.0.labelPlural>
-  <Tortoise.lifeStages.0.labelMale>male tortoise</Tortoise.lifeStages.0.labelMale>
-  <Tortoise.lifeStages.0.labelMalePlural>male tortoises</Tortoise.lifeStages.0.labelMalePlural>
-  <Tortoise.lifeStages.0.labelFemale>female tortoise</Tortoise.lifeStages.0.labelFemale>
-  <Tortoise.lifeStages.0.labelFemalePlural>female tortoises</Tortoise.lifeStages.0.labelFemalePlural>
-  <Tortoise.lifeStages.1.label>tortoise</Tortoise.lifeStages.1.label>
-  <Tortoise.lifeStages.1.labelPlural>tortoise</Tortoise.lifeStages.1.labelPlural>
-  <Tortoise.lifeStages.1.labelMale>male tortoise</Tortoise.lifeStages.1.labelMale>
-  <Tortoise.lifeStages.1.labelMalePlural>male tortoises</Tortoise.lifeStages.1.labelMalePlural>
-  <Tortoise.lifeStages.1.labelFemale>female tortoise</Tortoise.lifeStages.1.labelFemale>
-  <Tortoise.lifeStages.1.labelFemalePlural>female tortoises</Tortoise.lifeStages.1.labelFemalePlural>
-  <Tortoise.lifeStages.2.label>tortoise</Tortoise.lifeStages.2.label>
-  <Tortoise.lifeStages.2.labelPlural>tortoise</Tortoise.lifeStages.2.labelPlural>
-  <Tortoise.lifeStages.2.labelMale>male tortoise</Tortoise.lifeStages.2.labelMale>
-  <Tortoise.lifeStages.2.labelMalePlural>male tortoises</Tortoise.lifeStages.2.labelMalePlural>
-  <Tortoise.lifeStages.2.labelFemale>female tortoise</Tortoise.lifeStages.2.labelFemale>
-  <Tortoise.lifeStages.2.labelFemalePlural>female tortoises</Tortoise.lifeStages.2.labelFemalePlural>
-  <Tortoise.labelMale>male tortoise</Tortoise.labelMale>
-  <Tortoise.labelMalePlural>male tortoises</Tortoise.labelMalePlural>
-  <Tortoise.labelFemale>female tortoise</Tortoise.labelFemale>
-  <Tortoise.labelFemalePlural>female tortoises</Tortoise.labelFemalePlural>
-
+  <Tortoise.label>kura-kura</Tortoise.label>
+  <Tortoise.labelPlural>kura-kura</Tortoise.labelPlural>
+  <Tortoise.lifeStages.0.label>kura-kura</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.0.labelPlural>kura-kura</Tortoise.lifeStages.0.labelPlural>
+  <Tortoise.lifeStages.0.labelMale>kura-kura jantan</Tortoise.lifeStages.0.labelMale>
+  <Tortoise.lifeStages.0.labelMalePlural>kura-kura jantan</Tortoise.lifeStages.0.labelMalePlural>
+  <Tortoise.lifeStages.0.labelFemale>kura-kura betina</Tortoise.lifeStages.0.labelFemale>
+  <Tortoise.lifeStages.0.labelFemalePlural>kura-kura betina</Tortoise.lifeStages.0.labelFemalePlural>
+  <Tortoise.lifeStages.1.label>kura-kura</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.1.labelPlural>kura-kura</Tortoise.lifeStages.1.labelPlural>
+  <Tortoise.lifeStages.1.labelMale>kura-kura jantan</Tortoise.lifeStages.1.labelMale>
+  <Tortoise.lifeStages.1.labelMalePlural>kura-kura jantan</Tortoise.lifeStages.1.labelMalePlural>
+  <Tortoise.lifeStages.1.labelFemale>kura-kura betina</Tortoise.lifeStages.1.labelFemale>
+  <Tortoise.lifeStages.1.labelFemalePlural>kura-kura betina</Tortoise.lifeStages.1.labelFemalePlural>
+  <Tortoise.lifeStages.2.label>kura-kura</Tortoise.lifeStages.2.label>
+  <Tortoise.lifeStages.2.labelPlural>kura-kura</Tortoise.lifeStages.2.labelPlural>
+  <Tortoise.lifeStages.2.labelMale>kura-kura jantan</Tortoise.lifeStages.2.labelMale>
+  <Tortoise.lifeStages.2.labelMalePlural>kura-kura jantan</Tortoise.lifeStages.2.labelMalePlural>
+  <Tortoise.lifeStages.2.labelFemale>kura-kura betina</Tortoise.lifeStages.2.labelFemale>
+  <Tortoise.lifeStages.2.labelFemalePlural>kura-kura betina</Tortoise.lifeStages.2.labelFemalePlural>
+  <Tortoise.labelMale>kura-kura jantan</Tortoise.labelMale>
+  <Tortoise.labelMalePlural>kura-kura jantan</Tortoise.labelMalePlural>
+  <Tortoise.labelFemale>kura-kura betina</Tortoise.labelFemale>
+  <Tortoise.labelFemalePlural>kura-kura betina</Tortoise.labelFemalePlural>
 
 </LanguageData>

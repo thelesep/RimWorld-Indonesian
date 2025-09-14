@@ -1,180 +1,179 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Squirrel.label>squirrel</Squirrel.label>
-  <Squirrel.labelPlural>squirrels</Squirrel.labelPlural>
-  <Squirrel.lifeStages.0.label>squirrel</Squirrel.lifeStages.0.label>
-  <Squirrel.lifeStages.0.labelPlural>squirrel</Squirrel.lifeStages.0.labelPlural>
-  <Squirrel.lifeStages.0.labelMale>male squirrel</Squirrel.lifeStages.0.labelMale>
-  <Squirrel.lifeStages.0.labelMalePlural>male squirrels</Squirrel.lifeStages.0.labelMalePlural>
-  <Squirrel.lifeStages.0.labelFemale>female squirrel</Squirrel.lifeStages.0.labelFemale>
-  <Squirrel.lifeStages.0.labelFemalePlural>female squirrels</Squirrel.lifeStages.0.labelFemalePlural>
-  <Squirrel.lifeStages.1.label>squirrel</Squirrel.lifeStages.1.label>
-  <Squirrel.lifeStages.1.labelPlural>squirrel</Squirrel.lifeStages.1.labelPlural>
-  <Squirrel.lifeStages.1.labelMale>male squirrel</Squirrel.lifeStages.1.labelMale>
-  <Squirrel.lifeStages.1.labelMalePlural>male squirrels</Squirrel.lifeStages.1.labelMalePlural>
-  <Squirrel.lifeStages.1.labelFemale>female squirrel</Squirrel.lifeStages.1.labelFemale>
-  <Squirrel.lifeStages.1.labelFemalePlural>female squirrels</Squirrel.lifeStages.1.labelFemalePlural>
-  <Squirrel.lifeStages.2.label>squirrel</Squirrel.lifeStages.2.label>
-  <Squirrel.lifeStages.2.labelPlural>squirrel</Squirrel.lifeStages.2.labelPlural>
-  <Squirrel.lifeStages.2.labelMale>male squirrel</Squirrel.lifeStages.2.labelMale>
-  <Squirrel.lifeStages.2.labelMalePlural>male squirrels</Squirrel.lifeStages.2.labelMalePlural>
-  <Squirrel.lifeStages.2.labelFemale>female squirrel</Squirrel.lifeStages.2.labelFemale>
-  <Squirrel.lifeStages.2.labelFemalePlural>female squirrels</Squirrel.lifeStages.2.labelFemalePlural>
-  <Squirrel.labelMale>male squirrel</Squirrel.labelMale>
-  <Squirrel.labelMalePlural>male squirrels</Squirrel.labelMalePlural>
-  <Squirrel.labelFemale>female squirrel</Squirrel.labelFemale>
-  <Squirrel.labelFemalePlural>female squirrels</Squirrel.labelFemalePlural>
+  <Squirrel.label>tupai</Squirrel.label>
+  <Squirrel.labelPlural>tupai</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>tupai</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.0.labelPlural>tupai</Squirrel.lifeStages.0.labelPlural>
+  <Squirrel.lifeStages.0.labelMale>tupai jantan</Squirrel.lifeStages.0.labelMale>
+  <Squirrel.lifeStages.0.labelMalePlural>tupai jantan</Squirrel.lifeStages.0.labelMalePlural>
+  <Squirrel.lifeStages.0.labelFemale>tupai betina</Squirrel.lifeStages.0.labelFemale>
+  <Squirrel.lifeStages.0.labelFemalePlural>tupai betina</Squirrel.lifeStages.0.labelFemalePlural>
+  <Squirrel.lifeStages.1.label>tupai</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.1.labelPlural>tupai</Squirrel.lifeStages.1.labelPlural>
+  <Squirrel.lifeStages.1.labelMale>tupai jantan</Squirrel.lifeStages.1.labelMale>
+  <Squirrel.lifeStages.1.labelMalePlural>tupai jantan</Squirrel.lifeStages.1.labelMalePlural>
+  <Squirrel.lifeStages.1.labelFemale>tupai betina</Squirrel.lifeStages.1.labelFemale>
+  <Squirrel.lifeStages.1.labelFemalePlural>tupai betina</Squirrel.lifeStages.1.labelFemalePlural>
+  <Squirrel.lifeStages.2.label>tupai</Squirrel.lifeStages.2.label>
+  <Squirrel.lifeStages.2.labelPlural>tupai</Squirrel.lifeStages.2.labelPlural>
+  <Squirrel.lifeStages.2.labelMale>tupai jantan</Squirrel.lifeStages.2.labelMale>
+  <Squirrel.lifeStages.2.labelMalePlural>tupai jantan</Squirrel.lifeStages.2.labelMalePlural>
+  <Squirrel.lifeStages.2.labelFemale>tupai betina</Squirrel.lifeStages.2.labelFemale>
+  <Squirrel.lifeStages.2.labelFemalePlural>tupai betina</Squirrel.lifeStages.2.labelFemalePlural>
+  <Squirrel.labelMale>tupai jantan</Squirrel.labelMale>
+  <Squirrel.labelMalePlural>tupai jantan</Squirrel.labelMalePlural>
+  <Squirrel.labelFemale>tupai betina</Squirrel.labelFemale>
+  <Squirrel.labelFemalePlural>tupai betina</Squirrel.labelFemalePlural>
 
   <Alphabeaver.label>alphabeaver</Alphabeaver.label>
-  <Alphabeaver.labelPlural>alphabeavers</Alphabeaver.labelPlural>
+  <Alphabeaver.labelPlural>alphabeaver</Alphabeaver.labelPlural>
   <Alphabeaver.lifeStages.0.label>alphabeaver</Alphabeaver.lifeStages.0.label>
   <Alphabeaver.lifeStages.0.labelPlural>alphabeaver</Alphabeaver.lifeStages.0.labelPlural>
-  <Alphabeaver.lifeStages.0.labelMale>male alphabeaver</Alphabeaver.lifeStages.0.labelMale>
-  <Alphabeaver.lifeStages.0.labelMalePlural>male alphabeavers</Alphabeaver.lifeStages.0.labelMalePlural>
-  <Alphabeaver.lifeStages.0.labelFemale>female alphabeaver</Alphabeaver.lifeStages.0.labelFemale>
-  <Alphabeaver.lifeStages.0.labelFemalePlural>female alphabeavers</Alphabeaver.lifeStages.0.labelFemalePlural>
+  <Alphabeaver.lifeStages.0.labelMale>alphabeaver jantan</Alphabeaver.lifeStages.0.labelMale>
+  <Alphabeaver.lifeStages.0.labelMalePlural>alphabeaver jantan</Alphabeaver.lifeStages.0.labelMalePlural>
+  <Alphabeaver.lifeStages.0.labelFemale>alphabeaver betina</Alphabeaver.lifeStages.0.labelFemale>
+  <Alphabeaver.lifeStages.0.labelFemalePlural>alphabeaver betina</Alphabeaver.lifeStages.0.labelFemalePlural>
   <Alphabeaver.lifeStages.1.label>alphabeaver</Alphabeaver.lifeStages.1.label>
   <Alphabeaver.lifeStages.1.labelPlural>alphabeaver</Alphabeaver.lifeStages.1.labelPlural>
-  <Alphabeaver.lifeStages.1.labelMale>male alphabeaver</Alphabeaver.lifeStages.1.labelMale>
-  <Alphabeaver.lifeStages.1.labelMalePlural>male alphabeavers</Alphabeaver.lifeStages.1.labelMalePlural>
-  <Alphabeaver.lifeStages.1.labelFemale>female alphabeaver</Alphabeaver.lifeStages.1.labelFemale>
-  <Alphabeaver.lifeStages.1.labelFemalePlural>female alphabeavers</Alphabeaver.lifeStages.1.labelFemalePlural>
+  <Alphabeaver.lifeStages.1.labelMale>alphabeaver jantan</Alphabeaver.lifeStages.1.labelMale>
+  <Alphabeaver.lifeStages.1.labelMalePlural>alphabeaver jantan</Alphabeaver.lifeStages.1.labelMalePlural>
+  <Alphabeaver.lifeStages.1.labelFemale>alphabeaver betina</Alphabeaver.lifeStages.1.labelFemale>
+  <Alphabeaver.lifeStages.1.labelFemalePlural>alphabeaver betina</Alphabeaver.lifeStages.1.labelFemalePlural>
   <Alphabeaver.lifeStages.2.label>alphabeaver</Alphabeaver.lifeStages.2.label>
   <Alphabeaver.lifeStages.2.labelPlural>alphabeaver</Alphabeaver.lifeStages.2.labelPlural>
-  <Alphabeaver.lifeStages.2.labelMale>male alphabeaver</Alphabeaver.lifeStages.2.labelMale>
-  <Alphabeaver.lifeStages.2.labelMalePlural>male alphabeavers</Alphabeaver.lifeStages.2.labelMalePlural>
-  <Alphabeaver.lifeStages.2.labelFemale>female alphabeaver</Alphabeaver.lifeStages.2.labelFemale>
-  <Alphabeaver.lifeStages.2.labelFemalePlural>female alphabeavers</Alphabeaver.lifeStages.2.labelFemalePlural>
-  <Alphabeaver.labelMale>male alphabeaver</Alphabeaver.labelMale>
-  <Alphabeaver.labelMalePlural>male alphabeavers</Alphabeaver.labelMalePlural>
-  <Alphabeaver.labelFemale>female alphabeaver</Alphabeaver.labelFemale>
-  <Alphabeaver.labelFemalePlural>female alphabeavers</Alphabeaver.labelFemalePlural>
+  <Alphabeaver.lifeStages.2.labelMale>alphabeaver jantan</Alphabeaver.lifeStages.2.labelMale>
+  <Alphabeaver.lifeStages.2.labelMalePlural>alphabeaver jantan</Alphabeaver.lifeStages.2.labelMalePlural>
+  <Alphabeaver.lifeStages.2.labelFemale>alphabeaver betina</Alphabeaver.lifeStages.2.labelFemale>
+  <Alphabeaver.lifeStages.2.labelFemalePlural>alphabeaver betina</Alphabeaver.lifeStages.2.labelFemalePlural>
+  <Alphabeaver.labelMale>alphabeaver jantan</Alphabeaver.labelMale>
+  <Alphabeaver.labelMalePlural>alphabeaver jantan</Alphabeaver.labelMalePlural>
+  <Alphabeaver.labelFemale>alphabeaver betina</Alphabeaver.labelFemale>
+  <Alphabeaver.labelFemalePlural>alphabeaver betina</Alphabeaver.labelFemalePlural>
 
-  <Capybara.label>capybara</Capybara.label>
-  <Capybara.labelPlural>capybaras</Capybara.labelPlural>
-  <Capybara.lifeStages.0.label>capybara</Capybara.lifeStages.0.label>
-  <Capybara.lifeStages.0.labelPlural>capybara</Capybara.lifeStages.0.labelPlural>
-  <Capybara.lifeStages.0.labelMale>male capybara</Capybara.lifeStages.0.labelMale>
-  <Capybara.lifeStages.0.labelMalePlural>male capybaras</Capybara.lifeStages.0.labelMalePlural>
-  <Capybara.lifeStages.0.labelFemale>female capybara</Capybara.lifeStages.0.labelFemale>
-  <Capybara.lifeStages.0.labelFemalePlural>female capybaras</Capybara.lifeStages.0.labelFemalePlural>
-  <Capybara.lifeStages.1.label>capybara</Capybara.lifeStages.1.label>
-  <Capybara.lifeStages.1.labelPlural>capybara</Capybara.lifeStages.1.labelPlural>
-  <Capybara.lifeStages.1.labelMale>male capybara</Capybara.lifeStages.1.labelMale>
-  <Capybara.lifeStages.1.labelMalePlural>male capybaras</Capybara.lifeStages.1.labelMalePlural>
-  <Capybara.lifeStages.1.labelFemale>female capybara</Capybara.lifeStages.1.labelFemale>
-  <Capybara.lifeStages.1.labelFemalePlural>female capybaras</Capybara.lifeStages.1.labelFemalePlural>
-  <Capybara.lifeStages.2.label>capybara</Capybara.lifeStages.2.label>
-  <Capybara.lifeStages.2.labelPlural>capybara</Capybara.lifeStages.2.labelPlural>
-  <Capybara.lifeStages.2.labelMale>male capybara</Capybara.lifeStages.2.labelMale>
-  <Capybara.lifeStages.2.labelMalePlural>male capybaras</Capybara.lifeStages.2.labelMalePlural>
-  <Capybara.lifeStages.2.labelFemale>female capybara</Capybara.lifeStages.2.labelFemale>
-  <Capybara.lifeStages.2.labelFemalePlural>female capybaras</Capybara.lifeStages.2.labelFemalePlural>
-  <Capybara.labelMale>male capybara</Capybara.labelMale>
-  <Capybara.labelMalePlural>male capybaras</Capybara.labelMalePlural>
-  <Capybara.labelFemale>female capybara</Capybara.labelFemale>
-  <Capybara.labelFemalePlural>female capybaras</Capybara.labelFemalePlural>
+  <Capybara.label>kapibara</Capybara.label>
+  <Capybara.labelPlural>kapibara</Capybara.labelPlural>
+  <Capybara.lifeStages.0.label>kapibara</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.0.labelPlural>kapibara</Capybara.lifeStages.0.labelPlural>
+  <Capybara.lifeStages.0.labelMale>kapibara jantan</Capybara.lifeStages.0.labelMale>
+  <Capybara.lifeStages.0.labelMalePlural>kapibara jantan</Capybara.lifeStages.0.labelMalePlural>
+  <Capybara.lifeStages.0.labelFemale>kapibara betina</Capybara.lifeStages.0.labelFemale>
+  <Capybara.lifeStages.0.labelFemalePlural>kapibara betina</Capybara.lifeStages.0.labelFemalePlural>
+  <Capybara.lifeStages.1.label>kapibara</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.1.labelPlural>kapibara</Capybara.lifeStages.1.labelPlural>
+  <Capybara.lifeStages.1.labelMale>kapibara jantan</Capybara.lifeStages.1.labelMale>
+  <Capybara.lifeStages.1.labelMalePlural>kapibara jantan</Capybara.lifeStages.1.labelMalePlural>
+  <Capybara.lifeStages.1.labelFemale>kapibara betina</Capybara.lifeStages.1.labelFemale>
+  <Capybara.lifeStages.1.labelFemalePlural>kapibara betina</Capybara.lifeStages.1.labelFemalePlural>
+  <Capybara.lifeStages.2.label>kapibara</Capybara.lifeStages.2.label>
+  <Capybara.lifeStages.2.labelPlural>kapibara</Capybara.lifeStages.2.labelPlural>
+  <Capybara.lifeStages.2.labelMale>kapibara jantan</Capybara.lifeStages.2.labelMale>
+  <Capybara.lifeStages.2.labelMalePlural>kapibara jantan</Capybara.lifeStages.2.labelMalePlural>
+  <Capybara.lifeStages.2.labelFemale>kapibara betina</Capybara.lifeStages.2.labelFemale>
+  <Capybara.lifeStages.2.labelFemalePlural>kapibara betina</Capybara.lifeStages.2.labelFemalePlural>
+  <Capybara.labelMale>kapibara jantan</Capybara.labelMale>
+  <Capybara.labelMalePlural>kapibara jantan</Capybara.labelMalePlural>
+  <Capybara.labelFemale>kapibara betina</Capybara.labelFemale>
+  <Capybara.labelFemalePlural>kapibara betina</Capybara.labelFemalePlural>
 
   <Chinchilla.label>chinchilla</Chinchilla.label>
-  <Chinchilla.labelPlural>chinchillas</Chinchilla.labelPlural>
+  <Chinchilla.labelPlural>chinchilla</Chinchilla.labelPlural>
   <Chinchilla.lifeStages.0.label>chinchilla</Chinchilla.lifeStages.0.label>
   <Chinchilla.lifeStages.0.labelPlural>chinchilla</Chinchilla.lifeStages.0.labelPlural>
-  <Chinchilla.lifeStages.0.labelMale>male chinchilla</Chinchilla.lifeStages.0.labelMale>
-  <Chinchilla.lifeStages.0.labelMalePlural>male chinchillas</Chinchilla.lifeStages.0.labelMalePlural>
-  <Chinchilla.lifeStages.0.labelFemale>female chinchilla</Chinchilla.lifeStages.0.labelFemale>
-  <Chinchilla.lifeStages.0.labelFemalePlural>female chinchillas</Chinchilla.lifeStages.0.labelFemalePlural>
+  <Chinchilla.lifeStages.0.labelMale>chinchilla jantan</Chinchilla.lifeStages.0.labelMale>
+  <Chinchilla.lifeStages.0.labelMalePlural>chinchilla jantan</Chinchilla.lifeStages.0.labelMalePlural>
+  <Chinchilla.lifeStages.0.labelFemale>chinchilla betina</Chinchilla.lifeStages.0.labelFemale>
+  <Chinchilla.lifeStages.0.labelFemalePlural>chinchilla betina</Chinchilla.lifeStages.0.labelFemalePlural>
   <Chinchilla.lifeStages.1.label>chinchilla</Chinchilla.lifeStages.1.label>
   <Chinchilla.lifeStages.1.labelPlural>chinchilla</Chinchilla.lifeStages.1.labelPlural>
-  <Chinchilla.lifeStages.1.labelMale>male chinchilla</Chinchilla.lifeStages.1.labelMale>
-  <Chinchilla.lifeStages.1.labelMalePlural>male chinchillas</Chinchilla.lifeStages.1.labelMalePlural>
-  <Chinchilla.lifeStages.1.labelFemale>female chinchilla</Chinchilla.lifeStages.1.labelFemale>
-  <Chinchilla.lifeStages.1.labelFemalePlural>female chinchillas</Chinchilla.lifeStages.1.labelFemalePlural>
+  <Chinchilla.lifeStages.1.labelMale>chinchilla jantan</Chinchilla.lifeStages.1.labelMale>
+  <Chinchilla.lifeStages.1.labelMalePlural>chinchilla jantan</Chinchilla.lifeStages.1.labelMalePlural>
+  <Chinchilla.lifeStages.1.labelFemale>chinchilla betina</Chinchilla.lifeStages.1.labelFemale>
+  <Chinchilla.lifeStages.1.labelFemalePlural>chinchilla betina</Chinchilla.lifeStages.1.labelFemalePlural>
   <Chinchilla.lifeStages.2.label>chinchilla</Chinchilla.lifeStages.2.label>
   <Chinchilla.lifeStages.2.labelPlural>chinchilla</Chinchilla.lifeStages.2.labelPlural>
-  <Chinchilla.lifeStages.2.labelMale>male chinchilla</Chinchilla.lifeStages.2.labelMale>
-  <Chinchilla.lifeStages.2.labelMalePlural>male chinchillas</Chinchilla.lifeStages.2.labelMalePlural>
-  <Chinchilla.lifeStages.2.labelFemale>female chinchilla</Chinchilla.lifeStages.2.labelFemale>
-  <Chinchilla.lifeStages.2.labelFemalePlural>female chinchillas</Chinchilla.lifeStages.2.labelFemalePlural>
-  <Chinchilla.labelMale>male chinchilla</Chinchilla.labelMale>
-  <Chinchilla.labelMalePlural>male chinchillas</Chinchilla.labelMalePlural>
-  <Chinchilla.labelFemale>female chinchilla</Chinchilla.labelFemale>
-  <Chinchilla.labelFemalePlural>female chinchillas</Chinchilla.labelFemalePlural>
+  <Chinchilla.lifeStages.2.labelMale>chinchilla jantan</Chinchilla.lifeStages.2.labelMale>
+  <Chinchilla.lifeStages.2.labelMalePlural>chinchilla jantan</Chinchilla.lifeStages.2.labelMalePlural>
+  <Chinchilla.lifeStages.2.labelFemale>chinchilla betina</Chinchilla.lifeStages.2.labelFemale>
+  <Chinchilla.lifeStages.2.labelFemalePlural>chinchilla betina</Chinchilla.lifeStages.2.labelFemalePlural>
+  <Chinchilla.labelMale>chinchilla jantan</Chinchilla.labelMale>
+  <Chinchilla.labelMalePlural>chinchilla jantan</Chinchilla.labelMalePlural>
+  <Chinchilla.labelFemale>chinchilla betina</Chinchilla.labelFemale>
+  <Chinchilla.labelFemalePlural>chinchilla betina</Chinchilla.labelFemalePlural>
 
-  <Boomrat.label>boomrat</Boomrat.label>
-  <Boomrat.labelPlural>boomrats</Boomrat.labelPlural>
-  <Boomrat.lifeStages.0.label>boomrat</Boomrat.lifeStages.0.label>
-  <Boomrat.lifeStages.0.labelPlural>boomrat</Boomrat.lifeStages.0.labelPlural>
-  <Boomrat.lifeStages.0.labelMale>male boomrat</Boomrat.lifeStages.0.labelMale>
-  <Boomrat.lifeStages.0.labelMalePlural>male boomrats</Boomrat.lifeStages.0.labelMalePlural>
-  <Boomrat.lifeStages.0.labelFemale>female boomrat</Boomrat.lifeStages.0.labelFemale>
-  <Boomrat.lifeStages.0.labelFemalePlural>female boomrats</Boomrat.lifeStages.0.labelFemalePlural>
-  <Boomrat.lifeStages.1.label>boomrat</Boomrat.lifeStages.1.label>
-  <Boomrat.lifeStages.1.labelPlural>boomrat</Boomrat.lifeStages.1.labelPlural>
-  <Boomrat.lifeStages.1.labelMale>male boomrat</Boomrat.lifeStages.1.labelMale>
-  <Boomrat.lifeStages.1.labelMalePlural>male boomrats</Boomrat.lifeStages.1.labelMalePlural>
-  <Boomrat.lifeStages.1.labelFemale>female boomrat</Boomrat.lifeStages.1.labelFemale>
-  <Boomrat.lifeStages.1.labelFemalePlural>female boomrats</Boomrat.lifeStages.1.labelFemalePlural>
-  <Boomrat.lifeStages.2.label>boomrat</Boomrat.lifeStages.2.label>
-  <Boomrat.lifeStages.2.labelPlural>boomrat</Boomrat.lifeStages.2.labelPlural>
-  <Boomrat.lifeStages.2.labelMale>male boomrat</Boomrat.lifeStages.2.labelMale>
-  <Boomrat.lifeStages.2.labelMalePlural>male boomrats</Boomrat.lifeStages.2.labelMalePlural>
-  <Boomrat.lifeStages.2.labelFemale>female boomrat</Boomrat.lifeStages.2.labelFemale>
-  <Boomrat.lifeStages.2.labelFemalePlural>female boomrats</Boomrat.lifeStages.2.labelFemalePlural>
-  <Boomrat.labelMale>male boomrat</Boomrat.labelMale>
-  <Boomrat.labelMalePlural>male boomrats</Boomrat.labelMalePlural>
-  <Boomrat.labelFemale>female boomrat</Boomrat.labelFemale>
-  <Boomrat.labelFemalePlural>female boomrats</Boomrat.labelFemalePlural>
+  <Boomrat.label>tikus bom</Boomrat.label>
+  <Boomrat.labelPlural>tikus bom</Boomrat.labelPlural>
+  <Boomrat.lifeStages.0.label>tikus bom</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.0.labelPlural>tikus bom</Boomrat.lifeStages.0.labelPlural>
+  <Boomrat.lifeStages.0.labelMale>tikus bom jantan</Boomrat.lifeStages.0.labelMale>
+  <Boomrat.lifeStages.0.labelMalePlural>tikus bom jantan</Boomrat.lifeStages.0.labelMalePlural>
+  <Boomrat.lifeStages.0.labelFemale>tikus bom betina</Boomrat.lifeStages.0.labelFemale>
+  <Boomrat.lifeStages.0.labelFemalePlural>tikus bom betina</Boomrat.lifeStages.0.labelFemalePlural>
+  <Boomrat.lifeStages.1.label>tikus bom</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.1.labelPlural>tikus bom</Boomrat.lifeStages.1.labelPlural>
+  <Boomrat.lifeStages.1.labelMale>tikus bom jantan</Boomrat.lifeStages.1.labelMale>
+  <Boomrat.lifeStages.1.labelMalePlural>tikus bom jantan</Boomrat.lifeStages.1.labelMalePlural>
+  <Boomrat.lifeStages.1.labelFemale>tikus bom betina</Boomrat.lifeStages.1.labelFemale>
+  <Boomrat.lifeStages.1.labelFemalePlural>tikus bom betina</Boomrat.lifeStages.1.labelFemalePlural>
+  <Boomrat.lifeStages.2.label>tikus bom</Boomrat.lifeStages.2.label>
+  <Boomrat.lifeStages.2.labelPlural>tikus bom</Boomrat.lifeStages.2.labelPlural>
+  <Boomrat.lifeStages.2.labelMale>tikus bom jantan</Boomrat.lifeStages.2.labelMale>
+  <Boomrat.lifeStages.2.labelMalePlural>tikus bom jantan</Boomrat.lifeStages.2.labelMalePlural>
+  <Boomrat.lifeStages.2.labelFemale>tikus bom betina</Boomrat.lifeStages.2.labelFemale>
+  <Boomrat.lifeStages.2.labelFemalePlural>tikus bom betina</Boomrat.lifeStages.2.labelFemalePlural>
+  <Boomrat.labelMale>tikus bom jantan</Boomrat.labelMale>
+  <Boomrat.labelMalePlural>tikus bom jantan</Boomrat.labelMalePlural>
+  <Boomrat.labelFemale>tikus bom betina</Boomrat.labelFemale>
+  <Boomrat.labelFemalePlural>tikus bom betina</Boomrat.labelFemalePlural>
 
-  <Raccoon.label>raccoon</Raccoon.label>
-  <Raccoon.labelPlural>raccoons</Raccoon.labelPlural>
-  <Raccoon.lifeStages.0.label>raccoon</Raccoon.lifeStages.0.label>
-  <Raccoon.lifeStages.0.labelPlural>raccoon</Raccoon.lifeStages.0.labelPlural>
-  <Raccoon.lifeStages.0.labelMale>male raccoon</Raccoon.lifeStages.0.labelMale>
-  <Raccoon.lifeStages.0.labelMalePlural>male raccoons</Raccoon.lifeStages.0.labelMalePlural>
-  <Raccoon.lifeStages.0.labelFemale>female raccoon</Raccoon.lifeStages.0.labelFemale>
-  <Raccoon.lifeStages.0.labelFemalePlural>female raccoons</Raccoon.lifeStages.0.labelFemalePlural>
-  <Raccoon.lifeStages.1.label>raccoon</Raccoon.lifeStages.1.label>
-  <Raccoon.lifeStages.1.labelPlural>raccoon</Raccoon.lifeStages.1.labelPlural>
-  <Raccoon.lifeStages.1.labelMale>male raccoon</Raccoon.lifeStages.1.labelMale>
-  <Raccoon.lifeStages.1.labelMalePlural>male raccoons</Raccoon.lifeStages.1.labelMalePlural>
-  <Raccoon.lifeStages.1.labelFemale>female raccoon</Raccoon.lifeStages.1.labelFemale>
-  <Raccoon.lifeStages.1.labelFemalePlural>female raccoons</Raccoon.lifeStages.1.labelFemalePlural>
-  <Raccoon.lifeStages.2.label>raccoon</Raccoon.lifeStages.2.label>
-  <Raccoon.lifeStages.2.labelPlural>raccoon</Raccoon.lifeStages.2.labelPlural>
-  <Raccoon.lifeStages.2.labelMale>male raccoon</Raccoon.lifeStages.2.labelMale>
-  <Raccoon.lifeStages.2.labelMalePlural>male raccoons</Raccoon.lifeStages.2.labelMalePlural>
-  <Raccoon.lifeStages.2.labelFemale>female raccoon</Raccoon.lifeStages.2.labelFemale>
-  <Raccoon.lifeStages.2.labelFemalePlural>female raccoons</Raccoon.lifeStages.2.labelFemalePlural>
-  <Raccoon.labelMale>male raccoon</Raccoon.labelMale>
-  <Raccoon.labelMalePlural>male raccoons</Raccoon.labelMalePlural>
-  <Raccoon.labelFemale>female raccoon</Raccoon.labelFemale>
-  <Raccoon.labelFemalePlural>female raccoons</Raccoon.labelFemalePlural>
+  <Raccoon.label>rakun</Raccoon.label>
+  <Raccoon.labelPlural>rakun</Raccoon.labelPlural>
+  <Raccoon.lifeStages.0.label>rakun</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.0.labelPlural>rakun</Raccoon.lifeStages.0.labelPlural>
+  <Raccoon.lifeStages.0.labelMale>rakun jantan</Raccoon.lifeStages.0.labelMale>
+  <Raccoon.lifeStages.0.labelMalePlural>rakun jantan</Raccoon.lifeStages.0.labelMalePlural>
+  <Raccoon.lifeStages.0.labelFemale>rakun betina</Raccoon.lifeStages.0.labelFemale>
+  <Raccoon.lifeStages.0.labelFemalePlural>rakun betina</Raccoon.lifeStages.0.labelFemalePlural>
+  <Raccoon.lifeStages.1.label>rakun</Raccoon.lifeStages.1.label>
+  <Raccoon.lifeStages.1.labelPlural>rakun</Raccoon.lifeStages.1.labelPlural>
+  <Raccoon.lifeStages.1.labelMale>rakun jantan</Raccoon.lifeStages.1.labelMale>
+  <Raccoon.lifeStages.1.labelMalePlural>rakun jantan</Raccoon.lifeStages.1.labelMalePlural>
+  <Raccoon.lifeStages.1.labelFemale>rakun betina</Raccoon.lifeStages.1.labelFemale>
+  <Raccoon.lifeStages.1.labelFemalePlural>rakun betina</Raccoon.lifeStages.1.labelFemalePlural>
+  <Raccoon.lifeStages.2.label>rakun</Raccoon.lifeStages.2.label>
+  <Raccoon.lifeStages.2.labelPlural>rakun</Raccoon.lifeStages.2.labelPlural>
+  <Raccoon.lifeStages.2.labelMale>rakun jantan</Raccoon.lifeStages.2.labelMale>
+  <Raccoon.lifeStages.2.labelMalePlural>rakun jantan</Raccoon.lifeStages.2.labelMalePlural>
+  <Raccoon.lifeStages.2.labelFemale>rakun betina</Raccoon.lifeStages.2.labelFemale>
+  <Raccoon.lifeStages.2.labelFemalePlural>rakun betina</Raccoon.lifeStages.2.labelFemalePlural>
+  <Raccoon.labelMale>rakun jantan</Raccoon.labelMale>
+  <Raccoon.labelMalePlural>rakun jantan</Raccoon.labelMalePlural>
+  <Raccoon.labelFemale>rakun betina</Raccoon.labelFemale>
+  <Raccoon.labelFemalePlural>rakun betina</Raccoon.labelFemalePlural>
 
-  <Rat.label>rat</Rat.label>
-  <Rat.labelPlural>rats</Rat.labelPlural>
-  <Rat.lifeStages.0.label>rat</Rat.lifeStages.0.label>
-  <Rat.lifeStages.0.labelPlural>rat</Rat.lifeStages.0.labelPlural>
-  <Rat.lifeStages.0.labelMale>male rat</Rat.lifeStages.0.labelMale>
-  <Rat.lifeStages.0.labelMalePlural>male rats</Rat.lifeStages.0.labelMalePlural>
-  <Rat.lifeStages.0.labelFemale>female rat</Rat.lifeStages.0.labelFemale>
-  <Rat.lifeStages.0.labelFemalePlural>female rats</Rat.lifeStages.0.labelFemalePlural>
-  <Rat.lifeStages.1.label>rat</Rat.lifeStages.1.label>
-  <Rat.lifeStages.1.labelPlural>rat</Rat.lifeStages.1.labelPlural>
-  <Rat.lifeStages.1.labelMale>male rat</Rat.lifeStages.1.labelMale>
-  <Rat.lifeStages.1.labelMalePlural>male rats</Rat.lifeStages.1.labelMalePlural>
-  <Rat.lifeStages.1.labelFemale>female rat</Rat.lifeStages.1.labelFemale>
-  <Rat.lifeStages.1.labelFemalePlural>female rats</Rat.lifeStages.1.labelFemalePlural>
-  <Rat.lifeStages.2.label>rat</Rat.lifeStages.2.label>
-  <Rat.lifeStages.2.labelPlural>rat</Rat.lifeStages.2.labelPlural>
-  <Rat.lifeStages.2.labelMale>male rat</Rat.lifeStages.2.labelMale>
-  <Rat.lifeStages.2.labelMalePlural>male rats</Rat.lifeStages.2.labelMalePlural>
-  <Rat.lifeStages.2.labelFemale>female rat</Rat.lifeStages.2.labelFemale>
-  <Rat.lifeStages.2.labelFemalePlural>female rats</Rat.lifeStages.2.labelFemalePlural>
-  <Rat.labelMale>male rat</Rat.labelMale>
-  <Rat.labelMalePlural>male rats</Rat.labelMalePlural>
-  <Rat.labelFemale>female rat</Rat.labelFemale>
-  <Rat.labelFemalePlural>female rats</Rat.labelFemalePlural>
-
+  <Rat.label>tikus</Rat.label>
+  <Rat.labelPlural>tikus</Rat.labelPlural>
+  <Rat.lifeStages.0.label>tikus</Rat.lifeStages.0.label>
+  <Rat.lifeStages.0.labelPlural>tikus</Rat.lifeStages.0.labelPlural>
+  <Rat.lifeStages.0.labelMale>tikus jantan</Rat.lifeStages.0.labelMale>
+  <Rat.lifeStages.0.labelMalePlural>tikus jantan</Rat.lifeStages.0.labelMalePlural>
+  <Rat.lifeStages.0.labelFemale>tikus betina</Rat.lifeStages.0.labelFemale>
+  <Rat.lifeStages.0.labelFemalePlural>tikus betina</Rat.lifeStages.0.labelFemalePlural>
+  <Rat.lifeStages.1.label>tikus</Rat.lifeStages.1.label>
+  <Rat.lifeStages.1.labelPlural>tikus</Rat.lifeStages.1.labelPlural>
+  <Rat.lifeStages.1.labelMale>tikus jantan</Rat.lifeStages.1.labelMale>
+  <Rat.lifeStages.1.labelMalePlural>tikus jantan</Rat.lifeStages.1.labelMalePlural>
+  <Rat.lifeStages.1.labelFemale>tikus betina</Rat.lifeStages.1.labelFemale>
+  <Rat.lifeStages.1.labelFemalePlural>tikus betina</Rat.lifeStages.1.labelFemalePlural>
+  <Rat.lifeStages.2.label>tikus</Rat.lifeStages.2.label>
+  <Rat.lifeStages.2.labelPlural>tikus</Rat.lifeStages.2.labelPlural>
+  <Rat.lifeStages.2.labelMale>tikus jantan</Rat.lifeStages.2.labelMale>
+  <Rat.lifeStages.2.labelMalePlural>tikus jantan</Rat.lifeStages.2.labelMalePlural>
+  <Rat.lifeStages.2.labelFemale>tikus betina</Rat.lifeStages.2.labelFemale>
+  <Rat.lifeStages.2.labelFemalePlural>tikus betina</Rat.lifeStages.2.labelFemalePlural>
+  <Rat.labelMale>tikus jantan</Rat.labelMale>
+  <Rat.labelMalePlural>tikus jantan</Rat.labelMalePlural>
+  <Rat.labelFemale>tikus betina</Rat.labelFemale>
+  <Rat.labelFemalePlural>tikus betina</Rat.labelFemalePlural>
 
 </LanguageData>

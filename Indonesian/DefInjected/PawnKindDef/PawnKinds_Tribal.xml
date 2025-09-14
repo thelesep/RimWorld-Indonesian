@@ -3,44 +3,40 @@
 
   <!-- Poverty tier - penitent -->
 
-  <Tribal_Penitent.label>penitent</Tribal_Penitent.label>
-  <Tribal_Penitent.labelPlural>penitents</Tribal_Penitent.labelPlural>
+  <Tribal_Penitent.label>pendosa tobat</Tribal_Penitent.label>
+  <Tribal_Penitent.labelPlural>para pendosa tobat</Tribal_Penitent.labelPlural>
 
 
   <!-- Low tier - archer -->
 
-  <Tribal_Archer.label>archer</Tribal_Archer.label>
-  <Tribal_Archer.labelPlural>archers</Tribal_Archer.labelPlural>
+  <Tribal_Archer.label>pemanah</Tribal_Archer.label>
+  <Tribal_Archer.labelPlural>para pemanah</Tribal_Archer.labelPlural>
 
 
   <!-- Mid tier - warrior, hunter, trader -->
 
-  <Tribal_Warrior.label>warrior</Tribal_Warrior.label>
-  <Tribal_Warrior.labelPlural>warriors</Tribal_Warrior.labelPlural>
+  <Tribal_Warrior.label>pejuang</Tribal_Warrior.label>
+  <Tribal_Warrior.labelPlural>para pejuang</Tribal_Warrior.labelPlural>
 
-  <Tribal_Hunter.label>hunter</Tribal_Hunter.label>
-  <Tribal_Hunter.labelPlural>hunters</Tribal_Hunter.labelPlural>
+  <Tribal_Hunter.label>pemburu</Tribal_Hunter.label>
+  <Tribal_Hunter.labelPlural>para pemburu</Tribal_Hunter.labelPlural>
 
-  <Tribal_Trader.label>trader</Tribal_Trader.label>
-  <Tribal_Trader.labelPlural>traders</Tribal_Trader.labelPlural>
+  <Tribal_Trader.label>pedagang</Tribal_Trader.label>
+  <Tribal_Trader.labelPlural>para pedagang</Tribal_Trader.labelPlural>
 
 
   <!-- High tier - berserker, heavy archer, chief melee, chief ranged -->
 
   <Tribal_Berserker.label>berserker</Tribal_Berserker.label>
-  <Tribal_Berserker.labelPlural>berserkers</Tribal_Berserker.labelPlural>
+  <Tribal_Berserker.labelPlural>para berserker</Tribal_Berserker.labelPlural>
 
-  <Tribal_HeavyArcher.label>heavy archer</Tribal_HeavyArcher.label>
-  <Tribal_HeavyArcher.labelPlural>heavy archers</Tribal_HeavyArcher.labelPlural>
+  <Tribal_HeavyArcher.label>pemanah berat</Tribal_HeavyArcher.label>
+  <Tribal_HeavyArcher.labelPlural>para pemanah berat</Tribal_HeavyArcher.labelPlural>
 
-  <!--[Duplicated] <Tribal_ChiefMelee.label>Tribal_ChiefMelee</Tribal_ChiefMelee.label>-->
-  <!--[Duplicated] <Tribal_ChiefMelee.labelPlural>Tribal_ChiefMelees</Tribal_ChiefMelee.labelPlural>-->
+  <Tribal_ChiefMelee.label>kepala berserker</Tribal_ChiefMelee.label>
+  <Tribal_ChiefMelee.labelPlural>para kepala berserker</Tribal_ChiefMelee.labelPlural>
 
-  <Tribal_ChiefMelee.label>berserker chief</Tribal_ChiefMelee.label>
-  <Tribal_ChiefMelee.labelPlural>berserker chiefs</Tribal_ChiefMelee.labelPlural>
-
-  <Tribal_ChiefRanged.label>archer chief</Tribal_ChiefRanged.label>
-  <Tribal_ChiefRanged.labelPlural>archer chiefs</Tribal_ChiefRanged.labelPlural>
-
+  <Tribal_ChiefRanged.label>kepala pemanah</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.labelPlural>para kepala pemanah</Tribal_ChiefRanged.labelPlural>
 
 </LanguageData>
